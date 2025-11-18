@@ -1,38 +1,37 @@
-# Bluesky labeler starter code
-You'll find the starter code for Assignment 3 in this repository. More detailed
-instructions can be found in the assignment spec.
 
-## The Python ATProto SDK
-To build your labeler, you'll be using the AT Protocol SDK, which is documented [here](https://atproto.blue/en/latest/).
 
-## Automated labeler
-The bulk of your Part I implementation will be in `automated_labeler.py`. You are
-welcome to modify this implementation as you wish. However, you **must**
-preserve the signatures of the `__init__` and `moderate_post` functions,
-otherwise the testing/grading script will not work. You may also use the
-functions defined in `label.py`. You can import them like so:
+
+# Real-time Bluesky Feed Labeler
+The main script, `test_labeler.py`, runs in a continuous loop to provide live moderation:
+1.  **Fetches Feeds**: The script fetches the latest posts from your "Following" timeline.
+2.  **Analyzes Content**: Each new post is processed by a trained model to determine if it should be labeled.
+3.  **Applies Labels**: If a post is flagged, the service will attempt to apply a `t-and-s` label to it on Bluesky.
+
+## Setup Instructions
+
+### 1. Configure Your Credentials
+The service needs your Bluesky login credentials to interact with the AT Protocol.
+
+1.  Create a file named `.env` in the root of the project directory.
+2.  Add your credentials to the file in the following format, replacing the placeholder text with your actual handle and app password:
+    ```
+    USERNAME = "your-handle.bsky.social"
+    PW = "your-app-password"
+    ```
+
+### 2. Install Dependencies
+Ensure you have the necessary Python libraries installed by running
+```shell
+pip install -r requirements.txt
 ```
-from .label import post_from_url
-```
+## How to Run the Service
 
-For Part II, you will create a file called `policy_proposal_labeler.py` for your
-implementation. You are welcome to create additional files as you see fit.
+To start the live moderation service, run the following command from the root of the project directory:
 
-## Input files
-For Part I, your labeler will have as input lists of T&S words/domains, news
-domains, and a list of dog pictures. These inputs can be found in the
-`labeler-inputs` directory. For testing, we have CSV files where the rows
-consist of URLs paired with the expected labeler output. These can be found
-under the `test-data` directory.
-
-## Testing
-We provide a testing harness in `test-labeler.py`. To test your labeler on the
-input posts for dog pictures, you can run the following command and expect to
-see the following output:
-
-```
-% python test_labeler.py labeler-inputs test-data/input-posts-dogs.csv
-The labeler produced 20 correct labels assignments out of 20
-Overall ratio of correct label assignments 1.0
+```shell
+python test_labeler.py models
 ```
 
+Once running, the service will print its activity to the terminal.
+
+To stop the service, press `Ctrl+C` in the terminal.

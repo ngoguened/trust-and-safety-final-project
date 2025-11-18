@@ -1,0 +1,5 @@
+atproto
+pandas
+python-dotenv
+scikit-learn
+requests
