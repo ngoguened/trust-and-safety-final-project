@@ -1,0 +1,826 @@
+,X (Post Content),"y (label) [1 = deplatform positive, 0 = not deplatformed]",text,tokens,contains_exclamation,hashtags,cleaned_text,target
+0,If you want to message me on telegram my general tele username is @Cashfag4Str8,1,if you want to message me on telegram my general tele username is <MENTION>,"['want', 'message', 'telegram', 'general', 'tele', 'username', 'MENTION']",0,[],want message telegram general tele username MENTION,1
+1,Please feel free to send me a direct message on Telegram so we can continue our conversation more comfortably @Namcywil,1,please feel free to send me a direct message on telegram so we can continue our conversation more comfortably <MENTION>,"['please', 'feel', 'free', 'send', 'direct', 'message', 'telegram', 'continue', 'conversation', 'comfortably', 'MENTION']",0,[],please feel free send direct message telegram continue conversation comfortably MENTION,1
+2,"I’m doing quite well how about you? Would you be able to send me a direct message on Telegram or WhatsApp? What do you think, @Namcywil?",1,"i am doing quite well how about you? would you be able to send me a direct message on telegram or whatsapp? what do you think, <MENTION>?","['quite', 'well', 'would', 'able', 'send', 'direct', 'message', 'telegram', 'whatsapp', 'think', 'MENTION']",0,[],quite well would able send direct message telegram whatsapp think MENTION,1
+3, Send me a message on Donald Trump Mega fan page on Telegram 🫱🏻‍🫲🏻 t.me/Donald_Trump...,1, send me a message on donald trump mega fan page on telegram <EMOJI>‍<EMOJI> <TELEGRAM_HANDLE>...,"['send', 'message', 'donald', 'trump', 'mega', 'fan', 'page', 'telegram', 'EMOJI', '\u200d', 'EMOJI', 'TELEGRAMHANDLE']",0,[],send message donald trump mega fan page telegram EMOJI ‍ EMOJI TELEGRAMHANDLE,1
+4,"I am taking MFF delivery magnet and pin commissions! They are $80 each, please message me on Telegram if you are interested! 
+ Telegram: Spainimation",1,"i am taking mff delivery magnet and pin commissions! they are $<NUM> each, please message me on telegram if you are interested! 
+ telegram: spainimation","['taking', 'mff', 'delivery', 'magnet', 'pin', 'commission', 'NUM', 'please', 'message', 'telegram', 'interested', 'telegram', 'spainimation']",1,[],taking mff delivery magnet pin commission NUM please message telegram interested telegram spainimation,1
+5,"If interested message me on Telegram @/WanderingWastelands! 
+I don't take commissions here!",1,"if interested message me on telegram @/wanderingwastelands! 
+i do not take commissions here!","['interested', 'message', 'telegram', 'wanderingwastelands', 'not', 'take', 'commission']",1,[],interested message telegram wanderingwastelands not take commission,1
+6,"I will be offering my #fursuit photography services at @furfest.org!!
+
+Prices start at $100 (once photos are edited)
+
+Feel free to message me here or on telegram for extra details!!",1,"i will be offering my #fursuit photography services at <MENTION>.org!!
+
+prices start at $<NUM> (once photos are edited)
+
+feel free to message me here or on telegram for extra details!!","['offering', 'fursuit', 'photography', 'service', 'MENTION', 'org', 'price', 'start', 'NUM', 'photo', 'edited', 'feel', 'free', 'message', 'telegram', 'extra', 'detail']",1,['#fursuit'],offering fursuit photography service MENTION org price start NUM photo edited feel free message telegram extra detail,1
+7,"Taking a few more sketches on my telegram! If interested please message me there @/WanderingWastelands !!!
+(I don't take commissions here!) 
+
+#NSFW #NSFWart #NSFWCommiddions",1,"taking a few more sketches on my telegram! if interested please message me there @/wanderingwastelands !!!
+(i do not take commissions here!) 
+
+#nsfw #nsfwart #nsfwcommiddions","['taking', 'sketch', 'telegram', 'interested', 'please', 'message', 'wanderingwastelands', 'not', 'take', 'commission', 'nsfw', 'nsfwart', 'nsfwcommiddions']",1,"['#nsfw', '#nsfwart', '#nsfwcommiddions']",taking sketch telegram interested please message wanderingwastelands not take commission nsfw nsfwart nsfwcommiddions,1
+8,@alyysagrace message me now on telegram for help,1,<MENTION> message me now on telegram for help,"['MENTION', 'message', 'telegram', 'help']",0,[],MENTION message telegram help,1
+9,"New, by me: Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished […] 
+
+[Original post on infosec.exchange]",0,"new, by me: google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular china-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished […] 
+
+[original post on infosec.exchange]","['new', 'google', 'suing', 'two', 'dozen', 'unnamed', 'individual', 'allegedly', 'involved', 'peddling', 'popular', 'chinabased', 'mobile', 'phishing', 'service', 'help', 'scammer', 'impersonate', 'hundred', 'trusted', 'brand', 'blast', 'text', 'message', 'lure', 'convert', 'phished', '…', 'original', 'post', 'infosecexchange']",0,[],new google suing two dozen unnamed individual allegedly involved peddling popular chinabased mobile phishing service help scammer impersonate hundred trusted brand blast text message lure convert phished … original post infosecexchange,0
+10,"This scam/AI account pretending to be Jimin followed me today, and it seems they're mass following people. Block/report.
+
+bsky.app/profile/jimi...",0,"this scam/ai account pretending to be jimin followed me today, and it seems they are mass following people. block/report.
+
+bsky.app/profile/jimi...","['scamai', 'account', 'pretending', 'jimin', 'followed', 'today', 'seems', 'mass', 'following', 'people', 'blockreport', 'bskyappprofilejimi']",0,[],scamai account pretending jimin followed today seems mass following people blockreport bskyappprofilejimi,0
+11,"Pegging specialist. I adopt you and your ass hole so you can learn from good anal. Ready to submit to your mistress?👇🏻
+
+Message me on telegram….( t.me/mommyrose500 ) if you are ready to submit to me 🥰❤️",1,"pegging specialist. i adopt you and your ass hole so you can learn from good anal. ready to submit to your mistress?<EMOJI>
+
+message me on telegram….( <TELEGRAM_HANDLE> ) if you are ready to submit to me <EMOJI>","['pegging', 'specialist', 'adopt', 'as', 'hole', 'learn', 'good', 'anal', 'ready', 'submit', 'mistress', 'EMOJI', 'message', 'telegram…', 'TELEGRAMHANDLE', 'ready', 'submit', 'EMOJI']",0,[],pegging specialist adopt as hole learn good anal ready submit mistress EMOJI message telegram… TELEGRAMHANDLE ready submit EMOJI,1
+12,"✨COMMISSIONS ARE OPEN✨
+
+A FEW SLOTS HAVE OPENED UP
+
+Message me on telegram @Lundo_Rye if your interested 
+
+Price list below",1,"<EMOJI>commissions are open<EMOJI>
+
+a few slots have opened up
+
+message me on telegram <MENTION> if your interested 
+
+price list below","['EMOJI', 'commission', 'open', 'EMOJI', 'slot', 'opened', 'message', 'telegram', 'MENTION', 'interested', 'price', 'list']",0,[],EMOJI commission open EMOJI slot opened message telegram MENTION interested price list,1
+13,"Yeah they are! Send me a message on here,twitter or telegram (CostalTiger on all three) with your shipping info and I’ll give you an estimated shipping cost",1,"yeah they are! send me a message on here,twitter or telegram (costaltiger on all three) with your shipping info and i will give you an estimated shipping cost","['yeah', 'send', 'message', 'twitter', 'telegram', 'costaltiger', 'three', 'shipping', 'info', 'give', 'estimated', 'shipping', 'cost']",1,[],yeah send message twitter telegram costaltiger three shipping info give estimated shipping cost,1
+14,"Well either a sweet person or a scammer just tried message me, and bsky choked on it and lost the message.
+
+Whichever you were, hit me on Telegram. I’m a terrible conversationalist but ever so gullible.",0,"well either a sweet person or a scammer just tried message me, and bsky choked on it and lost the message.
+
+whichever you were, hit me on telegram. i am a terrible conversationalist but ever so gullible.","['well', 'either', 'sweet', 'person', 'scammer', 'tried', 'message', 'bsky', 'choked', 'lost', 'message', 'whichever', 'hit', 'telegram', 'terrible', 'conversationalist', 'ever', 'gullible']",0,[],well either sweet person scammer tried message bsky choked lost message whichever hit telegram terrible conversationalist ever gullible,0
+15,"If I ever dont message you on telegram for awhile, just know that I dont have the ability to message folks unless they already have me as a contact or they message me first
+Also because Im not a very social ottergator",0,"if i ever do not message you on telegram for awhile, just know that i do not have the ability to message folks unless they already have me as a contact or they message me first
+also because i am not a very social ottergator","['ever', 'not', 'message', 'telegram', 'awhile', 'know', 'not', 'ability', 'message', 'folk', 'unless', 'already', 'contact', 'message', 'first', 'also', 'not', 'social', 'ottergator']",0,[],ever not message telegram awhile know not ability message folk unless already contact message first also not social ottergator,0
+16,"This fucking phone of mine.
+Sweetie, I left you a message on Telegram.
+Please read it and get back to me.
+I'm sorry for being a dick.  I'm shy and don't know what to say either.
+
+One more chance?",0,"this fucking phone of mine.
+sweetie, i left you a message on telegram.
+please read it and get back to me.
+i am sorry for being a dick.  i am shy and do not know what to say either.
+
+one more chance?","['fucking', 'phone', 'mine', 'sweetie', 'left', 'message', 'telegram', 'please', 'read', 'get', 'back', 'sorry', 'dick', 'shy', 'not', 'know', 'say', 'either', 'one', 'chance']",0,[],fucking phone mine sweetie left message telegram please read get back sorry dick shy not know say either one chance,0
+17,Quick reminder if you message me on Telegram and you don't have an obvious furry in your profile pic please tell me who you are and why you're contacting me because otherwise I block everyone who is unknown to me. Scams and bots are a CONSTANT thing on Telegram and safety is priority!,0,quick reminder if you message me on telegram and you do not have an obvious furry in your profile pic please tell me who you are and why you are contacting me because otherwise i block everyone who is unknown to me. scams and bots are a constant thing on telegram and safety is priority!,"['quick', 'reminder', 'message', 'telegram', 'not', 'obvious', 'furry', 'profile', 'pic', 'please', 'tell', 'contacting', 'otherwise', 'block', 'everyone', 'unknown', 'scam', 'bot', 'constant', 'thing', 'telegram', 'safety', 'priority']",1,[],quick reminder message telegram not obvious furry profile pic please tell contacting otherwise block everyone unknown scam bot constant thing telegram safety priority,0
+18,"I'm open to take custom video requests starting at $5 per minute 🤗. Just send me a message on telegram. 
+
+t.me/tasteekitty",1,"i am open to take custom video requests starting at $<NUM> per minute <EMOJI>. just send me a message on telegram. 
+
+<TELEGRAM_HANDLE>","['open', 'take', 'custom', 'video', 'request', 'starting', 'NUM', 'per', 'minute', 'EMOJI', 'send', 'message', 'telegram', 'TELEGRAMHANDLE']",0,[],open take custom video request starting NUM per minute EMOJI send message telegram TELEGRAMHANDLE,1
+19,"Thank you for your love and support,click on my telegram t.me/SickBoiRenMu...  And send me a message right away on telegram…..for more private information…..MUCH LOVE 💕",1,"thank you for your love and support,click on my telegram <TELEGRAM_HANDLE>...  and send me a message right away on telegram…..for more private information…..much love <EMOJI>","['thank', 'love', 'support', 'click', 'telegram', 'TELEGRAMHANDLE', 'send', 'message', 'right', 'away', 'telegram…', 'private', 'information…', 'much', 'love', 'EMOJI']",0,[],thank love support click telegram TELEGRAMHANDLE send message right away telegram… private information… much love EMOJI,1
+20,"Hi folks! 
+
+Managed to get a bit of spare time to open 2 commission slots! Prices (USD-PAYPAL) are as follows: 
+
+BnW (w/ colour splash): 35.00
+Full Colour: 75.00
+Additional chars: +35.00
+Ref: 150.00
+
+Fling me a message on here, FA, X, Telegram, or Disc (DM for handles) 🤙",1,"hi folks! 
+
+managed to get a bit of spare time to open <NUM> commission slots! prices (usd-paypal) are as follows: 
+
+bnw (w/ colour splash): <NUM>.<NUM>
+full colour: <NUM>.<NUM>
+additional chars: +<NUM>.<NUM>
+ref: <NUM>.<NUM>
+
+fling me a message on here, fa, x, telegram, or disc (dm for handles) <EMOJI>","['hi', 'folk', 'managed', 'get', 'bit', 'spare', 'time', 'open', 'NUM', 'commission', 'slot', 'price', 'usdpaypal', 'follows', 'bnw', 'w', 'colour', 'splash', 'NUM', 'NUM', 'full', 'colour', 'NUM', 'NUM', 'additional', 'char', 'NUM', 'NUM', 'ref', 'NUM', 'NUM', 'fling', 'message', 'fa', 'x', 'telegram', 'disc', 'dm', 'handle', 'EMOJI']",1,[],hi folk managed get bit spare time open NUM commission slot price usdpaypal follows bnw w colour splash NUM NUM full colour NUM NUM additional char NUM NUM ref NUM NUM fling message fa x telegram disc dm handle EMOJI,1
+21,"if you message me in DMs here or on texts, or on telegram or whatever and its a name i dont recognize and its just saying ""Hi!"" or ""whats up"" or ""The hour of the great unravelling will soon be upon us"" i'm just going to delete the message and assume its spam",0,"if you message me in dms here or on texts, or on telegram or whatever and its a name i do not recognize and its just saying ""hi!"" or ""what is up"" or ""the hour of the great unravelling will soon be upon us"" i am just going to delete the message and assume its spam","['message', 'dm', 'text', 'telegram', 'whatever', 'name', 'not', 'recognize', 'saying', 'hi', 'hour', 'great', 'unravelling', 'soon', 'upon', 'u', 'going', 'delete', 'message', 'assume', 'spam']",1,[],message dm text telegram whatever name not recognize saying hi hour great unravelling soon upon u going delete message assume spam,0
+22,"Honestly, it feels like Telegram is starting to get almost as bad as ICQ was for unsolicited messages from strangers.",0,"honestly, it feels like telegram is starting to get almost as bad as icq was for unsolicited messages from strangers.","['honestly', 'feel', 'like', 'telegram', 'starting', 'get', 'almost', 'bad', 'icq', 'unsolicited', 'message', 'stranger']",0,[],honestly feel like telegram starting get almost bad icq unsolicited message stranger,0
+23,"General update for Bird Brain Leatherwork:
+
+Still behind after losing some tools but catching up
+
+My website has been acting up and I seriously need to dig in and see what I can do to fix it. In the meantime if you have questions about orders, please message me here or on telegram (somebirdyspecial)",1,"general update for bird brain leatherwork:
+
+still behind after losing some tools but catching up
+
+my website has been acting up and i seriously need to dig in and see what i can do to fix it. in the meantime if you have questions about orders, please message me here or on telegram (somebirdyspecial)","['general', 'update', 'bird', 'brain', 'leatherwork', 'still', 'behind', 'losing', 'tool', 'catching', 'website', 'acting', 'seriously', 'need', 'dig', 'see', 'fix', 'meantime', 'question', 'order', 'please', 'message', 'telegram', 'somebirdyspecial']",0,[],general update bird brain leatherwork still behind losing tool catching website acting seriously need dig see fix meantime question order please message telegram somebirdyspecial,1
+24,dead serious about the telegram thing. don't message me there at this time. phone died and tg was only on that. discord is the only way to reach me now. LeonPaws,0,dead serious about the telegram thing. do not message me there at this time. phone died and tg was only on that. discord is the only way to reach me now. leonpaws,"['dead', 'serious', 'telegram', 'thing', 'not', 'message', 'time', 'phone', 'died', 'tg', 'discord', 'way', 'reach', 'leonpaws']",0,[],dead serious telegram thing not message time phone died tg discord way reach leonpaws,0
+25,"Just because of this, mobile numbers will become obsolete. Like, it will be the next landline, or fax.
+
+People are already using whatsapp, telegram, zoom, etc for day to day communication anyway.
+
+Me and my daughter always chat and message on phone, but never once used SMS or mobile number.",0,"just because of this, mobile numbers will become obsolete. like, it will be the next landline, or fax.
+
+people are already using whatsapp, telegram, zoom, etc for day to day communication anyway.
+
+me and my daughter always chat and message on phone, but never once used sms or mobile number.","['mobile', 'number', 'become', 'obsolete', 'like', 'next', 'landline', 'fax', 'people', 'already', 'using', 'whatsapp', 'telegram', 'zoom', 'etc', 'day', 'day', 'communication', 'anyway', 'daughter', 'always', 'chat', 'message', 'phone', 'never', 'used', 'sm', 'mobile', 'number']",0,[],mobile number become obsolete like next landline fax people already using whatsapp telegram zoom etc day day communication anyway daughter always chat message phone never used sm mobile number,0
+26,"Be aware of accounts on Telegram pretending to be Fagspose. Please report them to me AND to Telegram. See fagspose.com.
+
+Please post this message on Telegram as well and repost here as well.",0,"be aware of accounts on telegram pretending to be fagspose. please report them to me and to telegram. see fagspose.com.
+
+please post this message on telegram as well and repost here as well.","['aware', 'account', 'telegram', 'pretending', 'fagspose', 'please', 'report', 'telegram', 'see', 'fagsposecom', 'please', 'post', 'message', 'telegram', 'well', 'repost', 'well']",0,[],aware account telegram pretending fagspose please report telegram see fagsposecom please post message telegram well repost well,0
+27,"i have been logged out for a long while and this is not an official return as i dont really enjoy bluesky or twitter but if anyone wants to message me (reconsider) message me on telegram
+
+@mikeneedsabath",1,"i have been logged out for a long while and this is not an official return as i do not really enjoy bluesky or twitter but if anyone wants to message me (reconsider) message me on telegram
+
+<MENTION>","['logged', 'long', 'not', 'official', 'return', 'not', 'really', 'enjoy', 'bluesky', 'twitter', 'anyone', 'want', 'message', 'reconsider', 'message', 'telegram', 'MENTION']",0,[],logged long not official return not really enjoy bluesky twitter anyone want message reconsider message telegram MENTION,1
+28,If interested please message me on Telegram! I don't take commissions here!,1,if interested please message me on telegram! i do not take commissions here!,"['interested', 'please', 'message', 'telegram', 'not', 'take', 'commission']",1,[],interested please message telegram not take commission,1
+29,heads up...seems I have an impersonator so if anyone gets a message from this account on Telegram it's not me...block and report!,0,heads up...seems i have an impersonator so if anyone gets a message from this account on telegram it is not me...block and report!,"['head', 'seems', 'impersonator', 'anyone', 'get', 'message', 'account', 'telegram', 'not', 'block', 'report']",1,[],head seems impersonator anyone get message account telegram not block report,0
+30,"Posematch 42: to appear in a collage for this pose....reply with picture here, e-mail Posematch@outlook.com or message me for invite to group on Telegram & send there. Model:  @davenanox.bsky.social  Key detail: standing to attention, legs slightly apart, hands behind back.....hard or soft cock 🙏",1,"posematch <NUM>: to appear in a collage for this pose....reply with picture here, e-mail posematch<MENTION>.com or message me for invite to group on telegram & send there. model:  <MENTION>.bsky.social  key detail: standing to attention, legs slightly apart, hands behind back.....hard or soft cock <EMOJI>","['posematch', 'NUM', 'appear', 'collage', 'pose', 'reply', 'picture', 'email', 'posematch', 'MENTION', 'com', 'message', 'invite', 'group', 'telegram', 'send', 'model', 'MENTION', 'bskysocial', 'key', 'detail', 'standing', 'attention', 'leg', 'slightly', 'apart', 'hand', 'behind', 'back', 'hard', 'soft', 'cock', 'EMOJI']",0,[],posematch NUM appear collage pose reply picture email posematch MENTION com message invite group telegram send model MENTION bskysocial key detail standing attention leg slightly apart hand behind back hard soft cock EMOJI,1
+31,"Do you wanna see a bunch of naked women just posting themselves all day?! 😍‼️😈 
+
+Message me on telegram - roselove7778 it’s 20$ to join, and then you sit back and relax and want all these sexy naughty women post themselves ALL DAY. 💦",1,"do you want to see a bunch of naked women just posting themselves all day?! <EMOJI>‼<EMOJI> 
+
+message me on telegram - roselove7778 it is <NUM>$ to join, and then you sit back and relax and want all these sexy naughty women post themselves all day. <EMOJI>","['want', 'see', 'bunch', 'naked', 'woman', 'posting', 'day', 'EMOJI', '‼', 'EMOJI', 'message', 'telegram', 'roselove7778', 'NUM', 'join', 'sit', 'back', 'relax', 'want', 'sexy', 'naughty', 'woman', 'post', 'day', 'EMOJI']",1,[],want see bunch naked woman posting day EMOJI ‼ EMOJI message telegram roselove7778 NUM join sit back relax want sexy naughty woman post day EMOJI,1
+32,"I got a message on Patreon this morning from someone pretending to be Tammy, asking me to contact them via Telegram for a reward. You might want to talk to Patreon directly to get them removed.",0,"i got a message on patreon this morning from someone pretending to be tammy, asking me to contact them via telegram for a reward. you might want to talk to patreon directly to get them removed.","['got', 'message', 'patreon', 'morning', 'someone', 'pretending', 'tammy', 'asking', 'contact', 'via', 'telegram', 'reward', 'might', 'want', 'talk', 'patreon', 'directly', 'get', 'removed']",0,[],got message patreon morning someone pretending tammy asking contact via telegram reward might want talk patreon directly get removed,0
+33,"Can't they AT LEAST use Ai to detect Ai 💀 like someone sending me a message on Telegram, speaking French while being from Vietnam, not knowing me, not an official account. At least make a message like ""Caution, some inconsistencies have been detected in that exchange"" or something, this is bs!",0,"cannot they at least use ai to detect ai <EMOJI> like someone sending me a message on telegram, speaking french while being from vietnam, not knowing me, not an official account. at least make a message like ""caution, some inconsistencies have been detected in that exchange"" or something, this is bs!","['not', 'least', 'use', 'ai', 'detect', 'ai', 'EMOJI', 'like', 'someone', 'sending', 'message', 'telegram', 'speaking', 'french', 'vietnam', 'not', 'knowing', 'not', 'official', 'account', 'least', 'make', 'message', 'like', 'caution', 'inconsistency', 'detected', 'exchange', 'something', 'b']",1,[],not least use ai detect ai EMOJI like someone sending message telegram speaking french vietnam not knowing not official account least make message like caution inconsistency detected exchange something b,0
+34,"Oh DMs don’t work while I’m on vacation because of facism and I refuse to give my ID to a foreign gov so message me on discord or telegram or whatever, or I’ll see it and reply on wednesday",0,"oh dms do not work while i am on vacation because of facism and i refuse to give my id to a foreign gov so message me on discord or telegram or whatever, or i will see it and reply on wednesday","['oh', 'dm', 'not', 'work', 'vacation', 'facism', 'refuse', 'give', 'id', 'foreign', 'gov', 'message', 'discord', 'telegram', 'whatever', 'see', 'reply', 'wednesday']",0,[],oh dm not work vacation facism refuse give id foreign gov message discord telegram whatever see reply wednesday,0
+35,"im feeling better! i would like to open for a few doodle icons so me and my wife can get lunch & maybe dinner!! & it'll help me get back into the swing of things! they'll be completed today!!
+
+$15 usd each
+dm me or message me on telegram to claim!
+t.me/tekfoxx ( telegram )
+
+goal: $60
+
+#commsopen",1,"i am feeling better! i would like to open for a few doodle icons so me and my wife can get lunch & maybe dinner!! & it will help me get back into the swing of things! they will be completed today!!
+
+$<NUM> usd each
+dm me or message me on telegram to claim!
+<TELEGRAM_HANDLE> ( telegram )
+
+goal: $<NUM>
+
+#commsopen","['feeling', 'better', 'would', 'like', 'open', 'doodle', 'icon', 'wife', 'get', 'lunch', 'maybe', 'dinner', 'help', 'get', 'back', 'swing', 'thing', 'completed', 'today', 'NUM', 'usd', 'dm', 'message', 'telegram', 'claim', 'TELEGRAMHANDLE', 'telegram', 'goal', 'NUM', 'commsopen']",1,['#commsopen'],feeling better would like open doodle icon wife get lunch maybe dinner help get back swing thing completed today NUM usd dm message telegram claim TELEGRAMHANDLE telegram goal NUM commsopen,1
+36,"PSA: my time is not free. I am never on lol or telegram of any other service where you do not pay per message. If you think you are chatting with me, you are not. Learn more about how to actually serve me in my blog.
+
+ nydominatrix.com/dont-be-fool...",0,"psa: my time is not free. i am never on lol or telegram of any other service where you do not pay per message. if you think you are chatting with me, you are not. learn more about how to actually serve me in my blog.
+
+ nydominatrix.com/do not-be-fool...","['psa', 'time', 'not', 'free', 'never', 'lol', 'telegram', 'service', 'not', 'pay', 'per', 'message', 'think', 'chatting', 'not', 'learn', 'actually', 'serve', 'blog', 'nydominatrixcomdo', 'notbefool']",0,[],psa time not free never lol telegram service not pay per message think chatting not learn actually serve blog nydominatrixcomdo notbefool,0
+37,"Them: ""oh hey we should talk on telegram!""
+Me: ""Alright!"" *messages them on TG*
+Them: *reads my message*
+Them: *Many months have passed and they still haven't replied. Is still super active on social media.*
+Me: 👇",0,"them: ""oh hey we should talk on telegram!""
+me: ""alright!"" *messages them on tg*
+them: *reads my message*
+them: *many months have passed and they still have not replied. is still super active on social media.*
+me: <EMOJI>","['oh', 'hey', 'talk', 'telegram', 'alright', 'message', 'tg', 'read', 'message', 'many', 'month', 'passed', 'still', 'not', 'replied', 'still', 'super', 'active', 'social', 'medium', 'EMOJI']",1,[],oh hey talk telegram alright message tg read message many month passed still not replied still super active social medium EMOJI,0
+38,"#SpotTheScammer 
+
+@sta-nleytucci.bsky.social impersonating Stanley Tucci, using pics stolen from his verified Meta accounts. Responding to people like this: ""+1 (737) 786‑8314‬ send me a message on telegram or WhatsApp I see your are one of my beautiful fans""
+www.instagram.com/stanleytucci",0,"#spotthescammer 
+
+<MENTION>-nleytucci.bsky.social impersonating stanley tucci, using pics stolen from his verified meta accounts. responding to people like this: ""+<NUM> (<NUM>) <NUM>‑<NUM>‬ send me a message on telegram or whatsapp i see your are one of my beautiful fans""
+<URL>","['spotthescammer', 'MENTION', 'nleytuccibskysocial', 'impersonating', 'stanley', 'tucci', 'using', 'pic', 'stolen', 'verified', 'meta', 'account', 'responding', 'people', 'like', 'NUM', 'NUM', 'NUM', '‑', 'NUM', '\u202c', 'send', 'message', 'telegram', 'whatsapp', 'see', 'one', 'beautiful', 'fan', 'URL']",0,['#spotthescammer'],spotthescammer MENTION nleytuccibskysocial impersonating stanley tucci using pic stolen verified meta account responding people like NUM NUM NUM ‑ NUM ‬ send message telegram whatsapp see one beautiful fan URL,0
+39,It's a safe place here available for meet up and👀 face time if you are interested message me on telegram,1,it is a safe place here available for meet up and<EMOJI> face time if you are interested message me on telegram,"['safe', 'place', 'available', 'meet', 'EMOJI', 'face', 'time', 'interested', 'message', 'telegram']",0,[],safe place available meet EMOJI face time interested message telegram,1
+40,"Reported: New probable pig-butcher scammer. 138 following, 4 posts, registered 3 days ago. Media pirated from the Internet: www.facebook.com/p/Karen-Rent.... Bio says ""Kindly text me on telegram: @melissa804 for better conversation can’t message on Bluesky for now."" Suspend ASAP!",0,"reported: new probable pig-butcher scammer. <NUM> following, <NUM> posts, registered <NUM> days ago. media pirated from the internet: <URL> bio says ""kindly text me on telegram: <MENTION> for better conversation cannot message on bluesky for now."" suspend as soon as possible!","['reported', 'new', 'probable', 'pigbutcher', 'scammer', 'NUM', 'following', 'NUM', 'post', 'registered', 'NUM', 'day', 'ago', 'medium', 'pirated', 'internet', 'URL', 'bio', 'say', 'kindly', 'text', 'telegram', 'MENTION', 'better', 'conversation', 'not', 'message', 'bluesky', 'suspend', 'soon', 'possible']",1,[],reported new probable pigbutcher scammer NUM following NUM post registered NUM day ago medium pirated internet URL bio say kindly text telegram MENTION better conversation not message bluesky suspend soon possible,0
+41,"I just don’t see how we can pretend even for a moment that anything involving our federal government is remotely normal when the president is covering up his involvement in a child sex trafficking ring. Like, what are we doing here",0,"i just do not see how we can pretend even for a moment that anything involving our federal government is remotely normal when the president is covering up his involvement in a child sex trafficking ring. like, what are we doing here","['not', 'see', 'pretend', 'even', 'moment', 'anything', 'involving', 'federal', 'government', 'remotely', 'normal', 'president', 'covering', 'involvement', 'child', 'sex', 'trafficking', 'ring', 'like']",0,[],not see pretend even moment anything involving federal government remotely normal president covering involvement child sex trafficking ring like,0
+42,"Hey everyone, I'm looking for Vore fursuits and would love to chat with them and learn more about them. Feel free to message me on: 
+Telegram: melody27ger 
+Discord: melodychan 
+I'm really looking forward to it!",1,"hey everyone, i am looking for vore fursuits and would love to chat with them and learn more about them. feel free to message me on: 
+telegram: melody27ger 
+discord: melodychan 
+i am really looking forward to it!","['hey', 'everyone', 'looking', 'vore', 'fursuits', 'would', 'love', 'chat', 'learn', 'feel', 'free', 'message', 'telegram', 'melody27ger', 'discord', 'melodychan', 'really', 'looking', 'forward']",1,[],hey everyone looking vore fursuits would love chat learn feel free message telegram melody27ger discord melodychan really looking forward,1
+43,"Yo!
+
+It’s that time of the year for holiday carrrdddssss!! ;D
+
+I wanna get a jump start on them this year so if you’re interested, drop me a message on here, Telegram or Discord! ;3
+
+Hoping to get started on it this coming week: Super excited!! 🥰🥰",1,"yo!
+
+it is that time of the year for holiday carrrdddssss!! ;d
+
+i want to get a jump start on them this year so if you are interested, drop me a message on here, telegram or discord! ;<NUM>
+
+hoping to get started on it this coming week: super excited!! <EMOJI>","['yo', 'time', 'year', 'holiday', 'carrrdddssss', 'want', 'get', 'jump', 'start', 'year', 'interested', 'drop', 'message', 'telegram', 'discord', 'NUM', 'hoping', 'get', 'started', 'coming', 'week', 'super', 'excited', 'EMOJI']",1,[],yo time year holiday carrrdddssss want get jump start year interested drop message telegram discord NUM hoping get started coming week super excited EMOJI,1
+44,"I would love to get in contact with you, I love us to get know each other, But obviously I can’t message you here on sky, I don’t know what really wrong with my message box🤷‍♂️, I would love if you could add me on telegram that’s if you don’t mind.. This is my telegram username link (  Ericrandy1249 ).",1,"i would love to get in contact with you, i love us to get know each other, but obviously i cannot message you here on sky, i do not know what really wrong with my message box<EMOJI>‍<EMOJI>, i would love if you could add me on telegram that is if you do not mind.. this is my telegram username link (  ericrandy1249 ).","['would', 'love', 'get', 'contact', 'love', 'u', 'get', 'know', 'obviously', 'not', 'message', 'sky', 'not', 'know', 'really', 'wrong', 'message', 'box', 'EMOJI', '\u200d', 'EMOJI', 'would', 'love', 'could', 'add', 'telegram', 'not', 'mind', 'telegram', 'username', 'link', 'ericrandy1249']",0,[],would love get contact love u get know obviously not message sky not know really wrong message box EMOJI ‍ EMOJI would love could add telegram not mind telegram username link ericrandy1249,1
+45,"Russian Telegram channels report a fire after an attack on an oil refinery in Nizhnekamsk, Tatarstan, Russia.",0,"russian telegram channels report a fire after an attack on an oil refinery in nizhnekamsk, tatarstan, russia.","['russian', 'telegram', 'channel', 'report', 'fire', 'attack', 'oil', 'refinery', 'nizhnekamsk', 'tatarstan', 'russia']",0,[],russian telegram channel report fire attack oil refinery nizhnekamsk tatarstan russia,0
+46,"I am taking MFF delivery magnet and pin commissions! They are $80 each, please message me on Telegram if you are interested! Telegram: Spainimation",1,"i am taking mff delivery magnet and pin commissions! they are $<NUM> each, please message me on telegram if you are interested! telegram: spainimation","['taking', 'mff', 'delivery', 'magnet', 'pin', 'commission', 'NUM', 'please', 'message', 'telegram', 'interested', 'telegram', 'spainimation']",1,[],taking mff delivery magnet pin commission NUM please message telegram interested telegram spainimation,1
+47,"Koi vs Asterr Round 1 Commission for 
+@harrowinghare37.bsky.social
+ let's see how this match gonna end uwu
+
+Telegram Channel t.me/MetallosaurusRex",1,"koi vs asterr round <NUM> commission for 
+<MENTION>.bsky.social
+ let us see how this match going to end uwu
+
+telegram channel <TELEGRAM_HANDLE>","['koi', 'v', 'asterr', 'round', 'NUM', 'commission', 'MENTION', 'bskysocial', 'let', 'u', 'see', 'match', 'going', 'end', 'uwu', 'telegram', 'channel', 'TELEGRAMHANDLE']",0,[],koi v asterr round NUM commission MENTION bskysocial let u see match going end uwu telegram channel TELEGRAMHANDLE,1
+48,I just read this post on Telegram and I absolutely agree with it ⬇️,0,i just read this post on telegram and i absolutely agree with it <EMOJI>,"['read', 'post', 'telegram', 'absolutely', 'agree', 'EMOJI']",0,[],read post telegram absolutely agree EMOJI,0
+49,"Hello, this is the Bsky Team. Due to suspicious activity, we're suspending your account unless you prove you're human. To prove this, get on telegram and forward those videos of you clapping and shaking your fat oiled up ass on our official telegram dm in the next 24 hours. Thank you, Bsky Team",0,"hello, this is the bsky team. due to suspicious activity, we are suspending your account unless you prove you are human. to prove this, get on telegram and forward those videos of you clapping and shaking your fat oiled up ass on our official telegram dm in the next <NUM> hours. thank you, bsky team","['hello', 'bsky', 'team', 'due', 'suspicious', 'activity', 'suspending', 'account', 'unless', 'prove', 'human', 'prove', 'get', 'telegram', 'forward', 'video', 'clapping', 'shaking', 'fat', 'oiled', 'as', 'official', 'telegram', 'dm', 'next', 'NUM', 'hour', 'thank', 'bsky', 'team']",0,[],hello bsky team due suspicious activity suspending account unless prove human prove get telegram forward video clapping shaking fat oiled as official telegram dm next NUM hour thank bsky team,0
+50,"Let's all be clear that QAnon never cared about child sex abuse, the whole thing was always an excuse to demonize their enemies and share titillating (to them) images of the sexual abuse of children. The only time I have EVER encountered explicit child porn online was on a QAnon Telegram channel",0,"let us all be clear that qanon never cared about child sex abuse, the whole thing was always an excuse to demonize their enemies and share titillating (to them) images of the sexual abuse of children. the only time i have ever encountered explicit child porn online was on a qanon telegram channel","['let', 'u', 'clear', 'qanon', 'never', 'cared', 'child', 'sex', 'abuse', 'whole', 'thing', 'always', 'excuse', 'demonize', 'enemy', 'share', 'titillating', 'image', 'sexual', 'abuse', 'child', 'time', 'ever', 'encountered', 'explicit', 'child', 'porn', 'online', 'qanon', 'telegram', 'channel']",0,[],let u clear qanon never cared child sex abuse whole thing always excuse demonize enemy share titillating image sexual abuse child time ever encountered explicit child porn online qanon telegram channel,0
+51,"I made a joke in my main Discord server about DOOM E1M1 being in a major key and 
+@abigbagofkeys.sickonedude.com
+ actually made it. Jesus fucking Christ listen to this hahahaha",0,"i made a joke in my main discord server about doom e1m1 being in a major key and 
+<MENTION>.sickonedude.com
+ actually made it. jesus fucking christ listen to this hahahaha","['made', 'joke', 'main', 'discord', 'server', 'doom', 'e1m1', 'major', 'key', 'MENTION', 'sickonedudecom', 'actually', 'made', 'jesus', 'fucking', 'christ', 'listen', 'hahahaha']",0,[],made joke main discord server doom e1m1 major key MENTION sickonedudecom actually made jesus fucking christ listen hahahaha,0
+52,missing hakka hours (i can DM him on discord at anytime),0,missing hakka hours (i can dm him on discord at anytime),"['missing', 'hakka', 'hour', 'dm', 'discord', 'anytime']",0,[],missing hakka hour dm discord anytime,0
+53,Hello lovelies 🤗🤗 COMMISSIONS ARE OPEN here on Bluesky and over on Discord! Send me DM so we can talk!,1,hello lovelies <EMOJI> commissions are open here on bluesky and over on discord! send me dm so we can talk!,"['hello', 'lovely', 'EMOJI', 'commission', 'open', 'bluesky', 'discord', 'send', 'dm', 'talk']",1,[],hello lovely EMOJI commission open bluesky discord send dm talk,1
+54,"Hi since Ru wants to block me and bring up part of my old life, here’s the court documents proving I didn’t dox anyone. If you would like more information, please message me on Discord.",1,"hi since ru wants to block me and bring up part of my old life, here is the court documents proving i did not dox anyone. if you would like more information, please message me on discord.","['hi', 'since', 'ru', 'want', 'block', 'bring', 'part', 'old', 'life', 'court', 'document', 'proving', 'not', 'dox', 'anyone', 'would', 'like', 'information', 'please', 'message', 'discord']",0,[],hi since ru want block bring part old life court document proving not dox anyone would like information please message discord,1
+55,"I always have people message me when I go do not disturb on discord like ""is everything okay???"" bitch I'm in CLASS",0,"i always have people message me when i go do not disturb on discord like ""is everything okay???"" bitch i am in class","['always', 'people', 'message', 'go', 'not', 'disturb', 'discord', 'like', 'everything', 'okay', 'bitch', 'class']",0,[],always people message go not disturb discord like everything okay bitch class,0
+56,"I got a lovely tip on CashApp from someone new to me and I don't know who you are. Can you comment below so I can connect with you for your perks? Or if you wanna stay anonymous, you can message me on Discord. discord.gg/Dwp4dnmwjN",1,"i got a lovely tip on cashapp from someone new to me and i do not know who you are. can you comment below so i can connect with you for your perks? or if you want to stay anonymous, you can message me on discord. discord.gg/dwp4dnmwjn","['got', 'lovely', 'tip', 'cashapp', 'someone', 'new', 'not', 'know', 'comment', 'connect', 'perk', 'want', 'stay', 'anonymous', 'message', 'discord', 'discordggdwp4dnmwjn']",0,[],got lovely tip cashapp someone new not know comment connect perk want stay anonymous message discord discordggdwp4dnmwjn,1
+57,Hey gang! Funds kinda hurty as picking up the Switch 2 in time for Air Riders kinda took a sizable chunck out of em! I'm not dying but some cash would help recoup living costs. Commissions ARE open! If you want an estimate for a commission message me on Discord @ ZitoisNeato.,1,hey gang! funds kind of hurty as picking up the switch <NUM> in time for air riders kind of took a sizable chunck out of them! i am not dying but some cash would help recoup living costs. commissions are open! if you want an estimate for a commission message me on discord @ zitoisneato.,"['hey', 'gang', 'fund', 'kind', 'hurty', 'picking', 'switch', 'NUM', 'time', 'air', 'rider', 'kind', 'took', 'sizable', 'chunck', 'not', 'dying', 'cash', 'would', 'help', 'recoup', 'living', 'cost', 'commission', 'open', 'want', 'estimate', 'commission', 'message', 'discord', 'zitoisneato']",1,[],hey gang fund kind hurty picking switch NUM time air rider kind took sizable chunck not dying cash would help recoup living cost commission open want estimate commission message discord zitoisneato,1
+58,i have had a huge uptick of ppl trying to add me on discord without any message or shared friends/servers and i just don't trust like that,0,i have had a huge uptick of people trying to add me on discord without any message or shared friends/servers and i just do not trust like that,"['huge', 'uptick', 'people', 'trying', 'add', 'discord', 'without', 'message', 'shared', 'friendsservers', 'not', 'trust', 'like']",0,[],huge uptick people trying add discord without message shared friendsservers not trust like,0
+59,"I keep getting a pop-up on here to ""verify my age"" or I can't access certain features like DMs. that's fine. if you need me, message me on discord or twitter (both of which I can provide for you 🫶) because I will never ever trust any kind of age verification technology on social media",1,"i keep getting a pop-up on here to ""verify my age"" or i cannot access certain features like dms. that is fine. if you need me, message me on discord or twitter (both of which i can provide for you <EMOJI>) because i will never ever trust any kind of age verification technology on social media","['keep', 'getting', 'popup', 'verify', 'age', 'not', 'access', 'certain', 'feature', 'like', 'dm', 'fine', 'need', 'message', 'discord', 'twitter', 'provide', 'EMOJI', 'never', 'ever', 'trust', 'kind', 'age', 'verification', 'technology', 'social', 'medium']",0,[],keep getting popup verify age not access certain feature like dm fine need message discord twitter provide EMOJI never ever trust kind age verification technology social medium,1
+60,actually wondering who the fuck at discord hq thought this feature was needed lmfao,0,actually wondering who the fuck at discord hq thought this feature was needed lmfao,"['actually', 'wondering', 'fuck', 'discord', 'hq', 'thought', 'feature', 'needed', 'lmfao']",0,[],actually wondering fuck discord hq thought feature needed lmfao,0
+61,"Once again annoyed that if you set someone to be Ignored on Discord, you still get the lil unread message blip whenever they post anything. I don't care what this mf has to say!!!!! Stop telling me when they send something!!!!!! I gotta clear that!!!!!!!!",0,"once again annoyed that if you set someone to be ignored on discord, you still get the lil unread message blip whenever they post anything. i do not care what this mf has to say!!!!! stop telling me when they send something!!!!!! i got to clear that!!!!!!!!","['annoyed', 'set', 'someone', 'ignored', 'discord', 'still', 'get', 'lil', 'unread', 'message', 'blip', 'whenever', 'post', 'anything', 'not', 'care', 'mf', 'say', 'stop', 'telling', 'send', 'something', 'got', 'clear']",1,[],annoyed set someone ignored discord still get lil unread message blip whenever post anything not care mf say stop telling send something got clear,0
+62,Twitter... suspended my account even after I verified and filled it in? i just wanted to make a profile so no one could impersonate me but okay then. most fascinating thing to me is that my banner is just missing too. wonder if that's what caused it,0,twitter... suspended my account even after i verified and filled it in? i just wanted to make a profile so no one could impersonate me but okay then. most fascinating thing to me is that my banner is just missing too. wonder if that is what caused it,"['twitter', 'suspended', 'account', 'even', 'verified', 'filled', 'wanted', 'make', 'profile', 'no', 'one', 'could', 'impersonate', 'okay', 'fascinating', 'thing', 'banner', 'missing', 'wonder', 'caused']",0,[],twitter suspended account even verified filled wanted make profile no one could impersonate okay fascinating thing banner missing wonder caused,0
+63,"President Trump returned to office promising to avoid foreign entanglements, make life more affordable and ensure that available jobs go to American citizens. His recent actions have been a significant departure from the expectations of his loyal base. nyti.ms/4p91FCj",0,"president trump returned to office promising to avoid foreign entanglements, make life more affordable and ensure that available jobs go to american citizens. his recent actions have been a significant departure from the expectations of his loyal base. nyti.ms/4p91fcj","['president', 'trump', 'returned', 'office', 'promising', 'avoid', 'foreign', 'entanglement', 'make', 'life', 'affordable', 'ensure', 'available', 'job', 'go', 'american', 'citizen', 'recent', 'action', 'significant', 'departure', 'expectation', 'loyal', 'base', 'nytims4p91fcj']",0,[],president trump returned office promising avoid foreign entanglement make life affordable ensure available job go american citizen recent action significant departure expectation loyal base nytims4p91fcj,0
+64,Table is set! Find me at #ThoughtBubble! I have stuff!,0,table is set! find me at #thoughtbubble! i have stuff!,"['table', 'set', 'find', 'thoughtbubble', 'stuff']",1,['#thoughtbubble'],table set find thoughtbubble stuff,0
+65,"For those who are pro book bans but only in the sense of banning “poorly written” books, if we banned said things.. then we’d never have the Twilight movies. And that movie series is a cultural feast for the soul. I may not care for the books, but holy shit those movies cure all that ail me.",0,"for those who are pro book bans but only in the sense of banning “poorly written” books, if we banned said things.. then we would never have the twilight movies. and that movie series is a cultural feast for the soul. i may not care for the books, but holy shit those movies cure all that ail me.","['pro', 'book', 'ban', 'sense', 'banning', '“', 'poorly', 'written', '”', 'book', 'banned', 'said', 'thing', 'would', 'never', 'twilight', 'movie', 'movie', 'series', 'cultural', 'feast', 'soul', 'may', 'not', 'care', 'book', 'holy', 'shit', 'movie', 'cure', 'ail']",0,[],pro book ban sense banning “ poorly written ” book banned said thing would never twilight movie movie series cultural feast soul may not care book holy shit movie cure ail,0
+66,I'm just a little catto wishing you the bestest #CatsNoirFriday possible. Share your kindness today if you can. Seriously lacking in this world & needed by so many. Love you all. Family sends hugs 🍂🧡🍂,0,i am just a little catto wishing you the bestest #catsnoirfriday possible. share your kindness today if you can. seriously lacking in this world & needed by so many. love you all. family sends hugs <EMOJI>,"['little', 'catto', 'wishing', 'bestest', 'catsnoirfriday', 'possible', 'share', 'kindness', 'today', 'seriously', 'lacking', 'world', 'needed', 'many', 'love', 'family', 'sends', 'hug', 'EMOJI']",0,['#catsnoirfriday'],little catto wishing bestest catsnoirfriday possible share kindness today seriously lacking world needed many love family sends hug EMOJI,0
+67,It is 1998. I am at the kitchen table writing Batman fanfic but I keep getting distracted by breaking news about a Bill Clinton sex scandal It is 2025. I am at the kitchen table writing a canonical Bat-book but I keep getting distracted by breaking news about a Bill Clinton sex scandal,0,it is <NUM>. i am at the kitchen table writing batman fanfic but i keep getting distracted by breaking news about a bill clinton sex scandal it is <NUM>. i am at the kitchen table writing a canonical bat-book but i keep getting distracted by breaking news about a bill clinton sex scandal,"['NUM', 'kitchen', 'table', 'writing', 'batman', 'fanfic', 'keep', 'getting', 'distracted', 'breaking', 'news', 'bill', 'clinton', 'sex', 'scandal', 'NUM', 'kitchen', 'table', 'writing', 'canonical', 'batbook', 'keep', 'getting', 'distracted', 'breaking', 'news', 'bill', 'clinton', 'sex', 'scandal']",0,[],NUM kitchen table writing batman fanfic keep getting distracted breaking news bill clinton sex scandal NUM kitchen table writing canonical batbook keep getting distracted breaking news bill clinton sex scandal,0
+68,The NFL issued a memo Thursday about prop bets following indictments of current and former NBA and MLB personnel.,0,the nfl issued a memo thursday about prop bets following indictments of current and former nba and mlb personnel.,"['nfl', 'issued', 'memo', 'thursday', 'prop', 'bet', 'following', 'indictment', 'current', 'former', 'nba', 'mlb', 'personnel']",0,[],nfl issued memo thursday prop bet following indictment current former nba mlb personnel,0
+69,"Please send me a message on telegram 👇👇👇
+t.me/artworkgallaryif you are interested in selling thanks",1,"please send me a message on telegram <EMOJI>
+<TELEGRAM_HANDLE> you are interested in selling thanks","['please', 'send', 'message', 'telegram', 'EMOJI', 'TELEGRAMHANDLE', 'interested', 'selling', 'thanks']",0,[],please send message telegram EMOJI TELEGRAMHANDLE interested selling thanks,1
+70,"Hey if anyone following me has contact with Jasper Sparks on Discord or Telegram, tell them to check their FA messages! I just noticed they sent me a message on FA, but I'm not active there at all and FA doesn't give email notifications, so I'd like to confirm processing their refund!",0,"hey if anyone following me has contact with jasper sparks on discord or telegram, tell them to check their fa messages! i just noticed they sent me a message on fa, but i am not active there at all and fa does not give email notifications, so i would like to confirm processing their refund!","['hey', 'anyone', 'following', 'contact', 'jasper', 'spark', 'discord', 'telegram', 'tell', 'check', 'fa', 'message', 'noticed', 'sent', 'message', 'fa', 'not', 'active', 'fa', 'not', 'give', 'email', 'notification', 'would', 'like', 'confirm', 'processing', 'refund']",1,[],hey anyone following contact jasper spark discord telegram tell check fa message noticed sent message fa not active fa not give email notification would like confirm processing refund,0
+71,I would really love for us to get to know each other better. Please feel free to send me a private message so we can chat. You seem like a very nice person! You can reach me directly on Telegram at t.me/at_schroeder.,1,i would really love for us to get to know each other better. please feel free to send me a private message so we can chat. you seem like a very nice person! you can reach me directly on telegram at <TELEGRAM_HANDLE>.,"['would', 'really', 'love', 'u', 'get', 'know', 'better', 'please', 'feel', 'free', 'send', 'private', 'message', 'chat', 'seem', 'like', 'nice', 'person', 'reach', 'directly', 'telegram', 'TELEGRAMHANDLE']",1,[],would really love u get know better please feel free send private message chat seem like nice person reach directly telegram TELEGRAMHANDLE,1
+72,"Anyone around to message me on Telegram, test something for a bit?",1,"anyone around to message me on telegram, test something for a bit?","['anyone', 'around', 'message', 'telegram', 'test', 'something', 'bit']",0,[],anyone around message telegram test something bit,1
+73,Hey loves . I go by Redd! Im a 30 year old MILF who is a content creator. You can find me on Telegram or OF. If you have any questions please feel free to message me about my menu 😘 I look forward to hearing from you!,1,hey loves . i go by redd! i am a <NUM> year old milf who is a content creator. you can find me on telegram or of. if you have any questions please feel free to message me about my menu <EMOJI> i look forward to hearing from you!,"['hey', 'love', 'go', 'redd', 'NUM', 'year', 'old', 'milf', 'content', 'creator', 'find', 'telegram', 'question', 'please', 'feel', 'free', 'message', 'menu', 'EMOJI', 'look', 'forward', 'hearing']",1,[],hey love go redd NUM year old milf content creator find telegram question please feel free message menu EMOJI look forward hearing,1
+74,"Hello all! A bit of a research audition post out for the game we're working on.
+
+Details are in the image so I can avoid bot spam. If you want to take a stab at these, please feel free to DM me on telegram.
+
+Would appreciate retweets to get the message about!
+
+linktr.ee/ortha",1,"hello all! a bit of a research audition post out for the game we are working on.
+
+details are in the image so i can avoid bot spam. if you want to take a stab at these, please feel free to dm me on telegram.
+
+would appreciate retweets to get the message about!
+
+linktr.ee/ortha","['hello', 'bit', 'research', 'audition', 'post', 'game', 'working', 'detail', 'image', 'avoid', 'bot', 'spam', 'want', 'take', 'stab', 'please', 'feel', 'free', 'dm', 'telegram', 'would', 'appreciate', 'retweets', 'get', 'message', 'linktreeortha']",1,[],hello bit research audition post game working detail image avoid bot spam want take stab please feel free dm telegram would appreciate retweets get message linktreeortha,1
+75,"Hello 👋
+I've designed my stickers for Telegram and Discord.
+
+If you'd like me to design one for you, please contact me via private message. You can also find me on Fiverr.
+
+Fiverr: fiverr.com/s/dD38q5Z",1,"hello <EMOJI>
+i have designed my stickers for telegram and discord.
+
+if you would like me to design one for you, please contact me via private message. you can also find me on fiverr.
+
+fiverr: fiverr.com/s/dd38q5z","['hello', 'EMOJI', 'designed', 'sticker', 'telegram', 'discord', 'would', 'like', 'design', 'one', 'please', 'contact', 'via', 'private', 'message', 'also', 'find', 'fiverr', 'fiverr', 'fiverrcomsdd38q5z']",0,[],hello EMOJI designed sticker telegram discord would like design one please contact via private message also find fiverr fiverr fiverrcomsdd38q5z,1
+76,"🌸✨ Relax, unwind, and let stress melt away ✨🌸
+Hi loves 💕 I’m a friendly, caring trans girl offering professional relaxation massages focused on comfort, peace, and positive energy.
+Your well-being is my priority 💆‍♀️💖
+Message me on Telegram 👉 [@tsamelia23] to book your session or ask questions 🌷",1,"<EMOJI> relax, unwind, and let stress melt away <EMOJI>
+hi loves <EMOJI> i am a friendly, caring trans girl offering professional relaxation massages focused on comfort, peace, and positive energy.
+your well-being is my priority <EMOJI>‍<EMOJI>
+message me on telegram <EMOJI> [<MENTION>] to book your session or ask questions <EMOJI>","['EMOJI', 'relax', 'unwind', 'let', 'stress', 'melt', 'away', 'EMOJI', 'hi', 'love', 'EMOJI', 'friendly', 'caring', 'trans', 'girl', 'offering', 'professional', 'relaxation', 'massage', 'focused', 'comfort', 'peace', 'positive', 'energy', 'wellbeing', 'priority', 'EMOJI', '\u200d', 'EMOJI', 'message', 'telegram', 'EMOJI', 'MENTION', 'book', 'session', 'ask', 'question', 'EMOJI']",0,[],EMOJI relax unwind let stress melt away EMOJI hi love EMOJI friendly caring trans girl offering professional relaxation massage focused comfort peace positive energy wellbeing priority EMOJI ‍ EMOJI message telegram EMOJI MENTION book session ask question EMOJI,1
+77,"This brought to mind a recent message from a friend, I hope she won't mind me posting it here.  Starmer should be listening to real people on buses.",0,"this brought to mind a recent message from a friend, i hope she will not mind me posting it here.  starmer should be listening to real people on buses.","['brought', 'mind', 'recent', 'message', 'friend', 'hope', 'not', 'mind', 'posting', 'starmer', 'listening', 'real', 'people', 'bus']",0,[],brought mind recent message friend hope not mind posting starmer listening real people bus,0
+78,i will leave you with this screenshot and no context,0,i will leave you with this screenshot and no context,"['leave', 'screenshot', 'no', 'context']",0,[],leave screenshot no context,0
+79,Good. I honestly don’t know what’s normal anymore. Had someone respond on the app after two months. He gave me his number to message on WhatsApp instead. What for?!??,0,good. i honestly do not know what is normal anymore. had someone respond on the app after two months. he gave me his number to message on whatsapp instead. what for?!??,"['good', 'honestly', 'not', 'know', 'normal', 'anymore', 'someone', 'respond', 'app', 'two', 'month', 'gave', 'number', 'message', 'whatsapp', 'instead']",1,[],good honestly not know normal anymore someone respond app two month gave number message whatsapp instead,0
+80,"no fucking way that I didn't reply to my brother's message on whatsapp because he wants me to send him a photo of the bill that's in the living room and I'm too lazy to go there, so he called my mother and snitched on me and my mother called me like ????",0,"no fucking way that i did not reply to my brother's message on whatsapp because he wants me to send him a photo of the bill that is in the living room and i am too lazy to go there, so he called my mother and snitched on me and my mother called me like ????","['no', 'fucking', 'way', 'not', 'reply', 'brother', 'message', 'whatsapp', 'want', 'send', 'photo', 'bill', 'living', 'room', 'lazy', 'go', 'called', 'mother', 'snitched', 'mother', 'called', 'like']",0,[],no fucking way not reply brother message whatsapp want send photo bill living room lazy go called mother snitched mother called like,0
+81,most desperate scammer of my fuckin LIFE bro,0,most desperate scammer of my fuckin life bro,"['desperate', 'scammer', 'fuckin', 'life', 'bro']",0,[],desperate scammer fuckin life bro,0
+82,I have multiple Palestinians message me on WhatsApp every day to tell me they’ve been suspended due to your racist policies against them. Maybe you could start by letting them keep their accounts.,0,i have multiple palestinians message me on whatsapp every day to tell me they have been suspended due to your racist policies against them. maybe you could start by letting them keep their accounts.,"['multiple', 'palestinian', 'message', 'whatsapp', 'every', 'day', 'tell', 'suspended', 'due', 'racist', 'policy', 'maybe', 'could', 'start', 'letting', 'keep', 'account']",0,[],multiple palestinian message whatsapp every day tell suspended due racist policy maybe could start letting keep account,0
+83,Baby message me on WhatsApp yes 🙏,1,baby message me on whatsapp yes <EMOJI>,"['baby', 'message', 'whatsapp', 'yes', 'EMOJI']",0,[],baby message whatsapp yes EMOJI,1
+84,"Could we meet and fuck, message me on WhatsApp 0 0 3 4 6 0 4 2 0 4 5 4 8 vinnie 🙏",1,"could we meet and fuck, message me on whatsapp <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> <NUM> vinnie <EMOJI>","['could', 'meet', 'fuck', 'message', 'whatsapp', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'NUM', 'vinnie', 'EMOJI']",0,[],could meet fuck message whatsapp NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM vinnie EMOJI,1
+85,"So I accidentally squashed a giant spider that crawled on me in the night and my mum's response was brutal.
+
+Context: she has a name system based on spider sizes, idk if it's just her.",0,"so i accidentally squashed a giant spider that crawled on me in the night and my mum's response was brutal.
+
+context: she has a name system based on spider sizes, i do not know if it is just her.","['accidentally', 'squashed', 'giant', 'spider', 'crawled', 'night', 'mum', 'response', 'brutal', 'context', 'name', 'system', 'based', 'spider', 'size', 'not', 'know']",0,[],accidentally squashed giant spider crawled night mum response brutal context name system based spider size not know,0
+86,"I am fairly sure I have caught a friend out on using ChatGPT to write his WhatsApp messages to me, as it looks like he left a bullet point in and a sentence about adding more context to the message.",0,"i am fairly sure i have caught a friend out on using chatgpt to write his whatsapp messages to me, as it looks like he left a bullet point in and a sentence about adding more context to the message.","['fairly', 'sure', 'caught', 'friend', 'using', 'chatgpt', 'write', 'whatsapp', 'message', 'look', 'like', 'left', 'bullet', 'point', 'sentence', 'adding', 'context', 'message']",0,[],fairly sure caught friend using chatgpt write whatsapp message look like left bullet point sentence adding context message,0
+87,"Hi friend, just boosted Soad as she also sent me a message on WhatsApp❤️",0,"hi friend, just boosted soad as she also sent me a message on whatsapp<EMOJI>","['hi', 'friend', 'boosted', 'soad', 'also', 'sent', 'message', 'whatsapp', 'EMOJI']",0,[],hi friend boosted soad also sent message whatsapp EMOJI,0
+88,Drop me a message or whatsapp the @gaydio.bsky.social studio 03330048400 if you’d like me to pop a tune on for you xxxx,1,drop me a message or whatsapp the <MENTION>.bsky.social studio<PHONE_NUMBER><NUM> if you would like me to pop a tune on for you xxxx,"['drop', 'message', 'whatsapp', 'MENTION', 'bskysocial', 'studio', 'PHONENUMBER', 'NUM', 'would', 'like', 'pop', 'tune', 'xxxx']",0,[],drop message whatsapp MENTION bskysocial studio PHONENUMBER NUM would like pop tune xxxx,1
+89,"Enjoying hacker camp @why2025.bsky.social #why2025
+
+Best way to book (and experience) healing session: message me on Signal or WhatsApp
+
+Read more on the wiki: wiki.why2025.org/Massage",1,"enjoying hacker camp <MENTION>.bsky.social #why2025
+
+best way to book (and experience) healing session: message me on signal or whatsapp
+
+read more on the wiki: wiki.why2025.org/massage","['enjoying', 'hacker', 'camp', 'MENTION', 'bskysocial', 'why2025', 'best', 'way', 'book', 'experience', 'healing', 'session', 'message', 'signal', 'whatsapp', 'read', 'wiki', 'wikiwhy2025orgmassage']",0,['#why2025'],enjoying hacker camp MENTION bskysocial why2025 best way book experience healing session message signal whatsapp read wiki wikiwhy2025orgmassage,1
+90,"I will be in London for a few hours later today (9th August 2025), and I intend to be naked. (I don't know where I will park.
+If you want me to suck your cock and/or take your own photos to share... message me on WhatsApp 07720248975, and I will send you a location pin.",1,"i will be in london for a few hours later today (9th august <NUM>), and i intend to be naked. (i do not know where i will park.
+if you want me to suck your cock and/or take your own photos to share... message me on whatsapp<PHONE_NUMBER><NUM>, and i will send you a location pin.","['london', 'hour', 'later', 'today', '9th', 'august', 'NUM', 'intend', 'naked', 'not', 'know', 'park', 'want', 'suck', 'cock', 'andor', 'take', 'photo', 'share', 'message', 'whatsapp', 'PHONENUMBER', 'NUM', 'send', 'location', 'pin']",0,[],london hour later today 9th august NUM intend naked not know park want suck cock andor take photo share message whatsapp PHONENUMBER NUM send location pin,1
+91,"Weekend Content special 
+**message me** 
+Also running a Promo on my onlyfans account! 
+TGram- @MssPeachyy
+WhatsApp- @PeachesnCreeem
+OnlyFans- @peachesncreeem",1,"weekend content special 
+**message me** 
+also running a promo on my onlyfans account! 
+tgram- <MENTION>
+whatsapp- <MENTION>
+onlyfans- <MENTION>","['weekend', 'content', 'special', 'message', 'also', 'running', 'promo', 'onlyfans', 'account', 'tgram', 'MENTION', 'whatsapp', 'MENTION', 'onlyfans', 'MENTION']",1,[],weekend content special message also running promo onlyfans account tgram MENTION whatsapp MENTION onlyfans MENTION,1
+92,"you are awesome send me a message on whatsapp 
++17302622091",1,"you are awesome send me a message on whatsapp 
+<PHONE_NUMBER>","['awesome', 'send', 'message', 'whatsapp', 'PHONENUMBER']",0,[],awesome send message whatsapp PHONENUMBER,1
+93,"⚒️ Engineered in Florida. Admired worldwide.
+
+Pergolas that make your property unforgettable.
+
+📲 Message me on WhatsApp: 
++57 302 657 4012
+
+#StattusGlobal #PergolaInnovation #LuxuryCraftsmanship #ModernPatio #OutdoorElegance #DesignToImpress #ArchitecturalOutdoor",1,"<EMOJI> engineered in florida. admired worldwide.
+
+pergolas that make your property unforgettable.
+
+<EMOJI> message me on whatsapp: 
+<PHONE_NUMBER>
+
+#stattusglobal #pergolainnovation #luxurycraftsmanship #modernpatio #outdoorelegance #designtoimpress #architecturaloutdoor","['EMOJI', 'engineered', 'florida', 'admired', 'worldwide', 'pergola', 'make', 'property', 'unforgettable', 'EMOJI', 'message', 'whatsapp', 'PHONENUMBER', 'stattusglobal', 'pergolainnovation', 'luxurycraftsmanship', 'modernpatio', 'outdoorelegance', 'designtoimpress', 'architecturaloutdoor']",0,"['#stattusglobal', '#pergolainnovation', '#luxurycraftsmanship', '#modernpatio', '#outdoorelegance', '#designtoimpress', '#architecturaloutdoor']",EMOJI engineered florida admired worldwide pergola make property unforgettable EMOJI message whatsapp PHONENUMBER stattusglobal pergolainnovation luxurycraftsmanship modernpatio outdoorelegance designtoimpress architecturaloutdoor,1
+94,"I had a glitch (poltergeist?) on my phone where I would get a text or whatsapp or whatever, and it would just turn itself on and auto-select a random autoreply. So someone would text ""Hey, do you want to go out on Friday"" and my phone would message back ""Nope!"" without me ever seeing the text 😭",0,"i had a glitch (poltergeist?) on my phone where i would get a text or whatsapp or whatever, and it would just turn itself on and auto-select a random autoreply. so someone would text ""hey, do you want to go out on friday"" and my phone would message back ""nope!"" without me ever seeing the text <EMOJI>","['glitch', 'poltergeist', 'phone', 'would', 'get', 'text', 'whatsapp', 'whatever', 'would', 'turn', 'autoselect', 'random', 'autoreply', 'someone', 'would', 'text', 'hey', 'want', 'go', 'friday', 'phone', 'would', 'message', 'back', 'nope', 'without', 'ever', 'seeing', 'text', 'EMOJI']",1,[],glitch poltergeist phone would get text whatsapp whatever would turn autoselect random autoreply someone would text hey want go friday phone would message back nope without ever seeing text EMOJI,0
+95,Congrats! WhatsApp message me for your freebie! Contact on my site! ❤️,1,congrats! whatsapp message me for your freebie! contact on my site! <EMOJI>,"['congrats', 'whatsapp', 'message', 'freebie', 'contact', 'site', 'EMOJI']",1,[],congrats whatsapp message freebie contact site EMOJI,1
+96,"We are hiring individuals who can handle any of the project that will be listed and the payment whould be $2000-$3000
+
+Typing 
+Logo designing 
+Data entry 
+Translating 
+
+if you are interested feel free to send me a message on Whatsapp with this number 12294078425",1,"we are hiring individuals who can handle any of the project that will be listed and the payment whould be $<NUM>-$<NUM>
+
+typing 
+logo designing 
+data entry 
+translating 
+
+if you are interested feel free to send me a message on whatsapp with this number<PHONE_NUMBER><NUM>","['hiring', 'individual', 'handle', 'project', 'listed', 'payment', 'whould', 'NUM', 'NUM', 'typing', 'logo', 'designing', 'data', 'entry', 'translating', 'interested', 'feel', 'free', 'send', 'message', 'whatsapp', 'number', 'PHONENUMBER', 'NUM']",0,[],hiring individual handle project listed payment whould NUM NUM typing logo designing data entry translating interested feel free send message whatsapp number PHONENUMBER NUM,1
+97,"You are among people that are selected to win TESLA model x car with some of 1 million dollars...... 
+Click on the link below to message me Direct to my private WhatsApp account to receive your prize 🏆 
+👇👇👇👇👇👇
+wa.me/+12245989242
+wa.me/+12245989242
+wa.me/+12245989242
+☝️☝️☝️☝️☝️☝️",1,"you are among people that are selected to win tesla model x car with some of <NUM> million dollars...... 
+click on the link below to message me direct to my private whatsapp account to receive your prize <EMOJI> 
+<EMOJI>
+wa.me/<PHONE_NUMBER>
+wa.me/<PHONE_NUMBER>
+wa.me/<PHONE_NUMBER>
+<EMOJI>","['among', 'people', 'selected', 'win', 'tesla', 'model', 'x', 'car', 'NUM', 'million', 'dollar', 'click', 'link', 'message', 'direct', 'private', 'whatsapp', 'account', 'receive', 'prize', 'EMOJI', 'EMOJI', 'wame', 'PHONENUMBER', 'wame', 'PHONENUMBER', 'wame', 'PHONENUMBER', 'EMOJI']",0,[],among people selected win tesla model x car NUM million dollar click link message direct private whatsapp account receive prize EMOJI EMOJI wame PHONENUMBER wame PHONENUMBER wame PHONENUMBER EMOJI,1
+98,"OOO till Tuesday. Looking forward to sinking deeply back into humanity; a personification of an exhale who doesn’t need to do anything except hang out with people I love, stay hydrated, and be embarrassingly bad at Street Fighter 6. 
+
+✌️",0,"ooo till tuesday. looking forward to sinking deeply back into humanity; a personification of an exhale who does not need to do anything except hang out with people i love, stay hydrated, and be embarrassingly bad at street fighter <NUM>. 
+
+<EMOJI>","['ooo', 'till', 'tuesday', 'looking', 'forward', 'sinking', 'deeply', 'back', 'humanity', 'personification', 'exhale', 'not', 'need', 'anything', 'except', 'hang', 'people', 'love', 'stay', 'hydrated', 'embarrassingly', 'bad', 'street', 'fighter', 'NUM', 'EMOJI']",0,[],ooo till tuesday looking forward sinking deeply back humanity personification exhale not need anything except hang people love stay hydrated embarrassingly bad street fighter NUM EMOJI,0
+99,"Connect with Black Writers SUPPORTING Black Writers at the #BlackWritersGroup weekly meeting on Wednesday at 5pm (Costa Rica time)!
+
+Direct message me for additional information.",0,"connect with black writers supporting black writers at the #blackwritersgroup weekly meeting on wednesday at 5pm (costa rica time)!
+
+direct message me for additional information.","['connect', 'black', 'writer', 'supporting', 'black', 'writer', 'blackwritersgroup', 'weekly', 'meeting', 'wednesday', '5pm', 'costa', 'rica', 'time', 'direct', 'message', 'additional', 'information']",1,['#blackwritersgroup'],connect black writer supporting black writer blackwritersgroup weekly meeting wednesday 5pm costa rica time direct message additional information,0
+100,"It's funny how these young women on here message me and want me to download one of the other chat apps Like WhatsApp, Telegram, zangi, etc. That's not going to happen.",0,"it is funny how these young women on here message me and want me to download one of the other chat apps like whatsapp, telegram, zangi, etc. that is not going to happen.","['funny', 'young', 'woman', 'message', 'want', 'download', 'one', 'chat', 'apps', 'like', 'whatsapp', 'telegram', 'zangi', 'etc', 'not', 'going', 'happen']",0,[],funny young woman message want download one chat apps like whatsapp telegram zangi etc not going happen,0
+101,"I would love to learn more about these stuffs
+Why don’t you send me a message on my telegram, let’s talk 😊❤️",1,"i would love to learn more about these stuffs
+why do not you send me a message on my telegram, let us talk <EMOJI>","['would', 'love', 'learn', 'stuff', 'not', 'send', 'message', 'telegram', 'let', 'u', 'talk', 'EMOJI']",0,[],would love learn stuff not send message telegram let u talk EMOJI,1
+102,Never ghost a guy on wechat they get crazy w it,0,never ghost a guy on wechat they get crazy w it,"['never', 'ghost', 'guy', 'wechat', 'get', 'crazy', 'w']",0,[],never ghost guy wechat get crazy w,0
+103,"overheard a snippet of a student's conversation yesterday:
+
+s1: yo you should add me on wechat
+
+s2: wechat? what's that?
+
+s1: you like. message people on it
+
+s2: i didn't know that the wii had a messaging app....",0,"overheard a snippet of a student's conversation yesterday:
+
+s1: yo you should add me on wechat
+
+s2: wechat? what is that?
+
+s1: you like. message people on it
+
+s2: i did not know that the wii had a messaging app....","['overheard', 'snippet', 'student', 'conversation', 'yesterday', 's1', 'yo', 'add', 'wechat', 's2', 'wechat', 's1', 'like', 'message', 'people', 's2', 'not', 'know', 'wii', 'messaging', 'app']",0,[],overheard snippet student conversation yesterday s1 yo add wechat s2 wechat s1 like message people s2 not know wii messaging app,0
+104,"like not to be an oblivious lesbian about it but like she has told me multiple times that she loves seeing me in there, she was the one who asked me for my Wechat, and when i messaged her for the first time she was like ""haha I'm off on these days we should hang out, I'll message you when I'm free""",0,"like not to be an oblivious lesbian about it but like she has told me multiple times that she loves seeing me in there, she was the one who asked me for my wechat, and when i messaged her for the first time she was like ""haha i am off on these days we should hang out, i will message you when i am free""","['like', 'not', 'oblivious', 'lesbian', 'like', 'told', 'multiple', 'time', 'love', 'seeing', 'one', 'asked', 'wechat', 'messaged', 'first', 'time', 'like', 'haha', 'day', 'hang', 'message', 'free']",0,[],like not oblivious lesbian like told multiple time love seeing one asked wechat messaged first time like haha day hang message free,0
+105,woke up to a dm on 小红书 asking to add me on wechat so i can send dick pics however the account appears to have been nuked the second they sent the message? good on 小红书 tbh,0,woke up to a dm on <EMOJI> asking to add me on wechat so i can send dick pics however the account appears to have been nuked the second they sent the message? good on <EMOJI> to be honest,"['woke', 'dm', 'EMOJI', 'asking', 'add', 'wechat', 'send', 'dick', 'pic', 'however', 'account', 'appears', 'nuked', 'second', 'sent', 'message', 'good', 'EMOJI', 'honest']",0,[],woke dm EMOJI asking add wechat send dick pic however account appears nuked second sent message good EMOJI honest,0
+106,"接画稿，价格可以在微信上详谈，有需求可以私信我。
+We can accept the draft. The price can be discussed in detail on wechat. If you have any needs, you can send me a private message.👾",1,"<EMOJI>
+we can accept the draft. the price can be discussed in detail on wechat. if you have any needs, you can send me a private message.<EMOJI>","['EMOJI', 'accept', 'draft', 'price', 'discussed', 'detail', 'wechat', 'need', 'send', 'private', 'message', 'EMOJI']",0,[],EMOJI accept draft price discussed detail wechat need send private message EMOJI,1
+107,"接画稿，价格可以在微信上详谈，有需求可以私信我。
+We can accept the draft. The price can be discussed in detail on wechat. If you have any needs, you can send me a private message.😉",1,"<EMOJI>
+we can accept the draft. the price can be discussed in detail on wechat. if you have any needs, you can send me a private message.<EMOJI>","['EMOJI', 'accept', 'draft', 'price', 'discussed', 'detail', 'wechat', 'need', 'send', 'private', 'message', 'EMOJI']",0,[],EMOJI accept draft price discussed detail wechat need send private message EMOJI,1
+108,"Hello, I can not send you the message directly here..could we get connected on Wechat or Teams? or would you please give me your Email",1,"hello, i can not send you the message directly here..could we get connected on wechat or teams? or would you please give me your email","['hello', 'not', 'send', 'message', 'directly', 'could', 'get', 'connected', 'wechat', 'team', 'would', 'please', 'give', 'email']",0,[],hello not send message directly could get connected wechat team would please give email,1
+109,"Hampton Roads people - looking for a chill, help when you can,  volunteer opportunity?   Evelyn’s Wildlife rescue is looking for folks to transport injured and orphaned wildlife.  Super busy this time of year with babies leaving the nest.  Details in alt text.  Hit me up if any questions!",0,"hampton roads people - looking for a chill, help when you can,  volunteer opportunity?   evelyn’s wildlife rescue is looking for folks to transport injured and orphaned wildlife.  super busy this time of year with babies leaving the nest.  details in alt text.  hit me up if any questions!","['hampton', 'road', 'people', 'looking', 'chill', 'help', 'volunteer', 'opportunity', 'evelyn', '’', 'wildlife', 'rescue', 'looking', 'folk', 'transport', 'injured', 'orphaned', 'wildlife', 'super', 'busy', 'time', 'year', 'baby', 'leaving', 'nest', 'detail', 'alt', 'text', 'hit', 'question']",1,[],hampton road people looking chill help volunteer opportunity evelyn ’ wildlife rescue looking folk transport injured orphaned wildlife super busy time year baby leaving nest detail alt text hit question,0
+110,More people should have this mental image of me tbh,0,more people should have this mental image of me to be honest,"['people', 'mental', 'image', 'honest']",0,[],people mental image honest,0
+111,"SCAM Alert!  They've been relentless lately 😠  
+
+BEWARE - I am NO longer on Discord (too many scammers). I will NEVER EVER direct message you. If ANYONE DMs you on Telegram, Discord, WhatsApp, anywhere using my face or name, it is NOT me. ⚠️ BE SMART",0,"scam alert!  they have been relentless lately <EMOJI>  
+
+beware - i am no longer on discord (too many scammers). i will never ever direct message you. if anyone dms you on telegram, discord, whatsapp, anywhere using my face or name, it is not me. <EMOJI> be smart","['scam', 'alert', 'relentless', 'lately', 'EMOJI', 'beware', 'no', 'longer', 'discord', 'many', 'scammer', 'never', 'ever', 'direct', 'message', 'anyone', 'dm', 'telegram', 'discord', 'whatsapp', 'anywhere', 'using', 'face', 'name', 'not', 'EMOJI', 'smart']",1,[],scam alert relentless lately EMOJI beware no longer discord many scammer never ever direct message anyone dm telegram discord whatsapp anywhere using face name not EMOJI smart,0
+112,"‎Chat with me on WhatsApp! It lets us message privately with friends and family on iPhone, Android and more. whatsapp.com/dl/",1,"‎chat with me on whatsapp! it let us us message privately with friends and family on iphone, android and more. whatsapp.com/dl/","['\u200echat', 'whatsapp', 'let', 'u', 'u', 'message', 'privately', 'friend', 'family', 'iphone', 'android', 'whatsappcomdl']",1,[],‎chat whatsapp let u u message privately friend family iphone android whatsappcomdl,1
+113,My mother insists on sending me every tabloid article she reads on violent crime in my area. Is this a motherly thing to do? I hate it 😅,0,my mother insists on sending me every tabloid article she reads on violent crime in my area. is this a motherly thing to do? i hate it <EMOJI>,"['mother', 'insists', 'sending', 'every', 'tabloid', 'article', 'read', 'violent', 'crime', 'area', 'motherly', 'thing', 'hate', 'EMOJI']",0,[],mother insists sending every tabloid article read violent crime area motherly thing hate EMOJI,0
+114,Hani also has a message for @bsky.app (although I’m going to have to get him to send it to me on WhatsApp for when Bluesky inevitably shuts this account down too),0,hani also has a message for <MENTION>.app (although i am going to have to get him to send it to me on whatsapp for when bluesky inevitably shuts this account down too),"['hani', 'also', 'message', 'MENTION', 'app', 'although', 'going', 'get', 'send', 'whatsapp', 'bluesky', 'inevitably', 'shuts', 'account']",0,[],hani also message MENTION app although going get send whatsapp bluesky inevitably shuts account,0
+115,"a reminder to folks not to message me, e-mail me, whatsapp me, text me to tell me you aren't going to come to the event on Sunday. the default expectation is that you wont be there. if i receive a pile of no's from people, it makes me extra nervous and worried.",0,"a reminder to folks not to message me, e-mail me, whatsapp me, text me to tell me you are not going to come to the event on sunday. the default expectation is that you will not be there. if i receive a pile of no's from people, it makes me extra nervous and worried.","['reminder', 'folk', 'not', 'message', 'email', 'whatsapp', 'text', 'tell', 'not', 'going', 'come', 'event', 'sunday', 'default', 'expectation', 'not', 'receive', 'pile', 'no', 'people', 'make', 'extra', 'nervous', 'worried']",0,[],reminder folk not message email whatsapp text tell not going come event sunday default expectation not receive pile no people make extra nervous worried,0
+116,"I missed the anniversary (5/20) but the biggest of shout outs to @brainchain.ca for now over a year of collabing me on this project based on the below screenshots and vibes alone 😅
+
+Kate, @womensart2.bsky.social would not be possible without you and thank you for making this site brighter 🩷",0,"i missed the anniversary (<NUM>/<NUM>) but the biggest of shout outs to <MENTION>.ca for now over a year of collabing me on this project based on the below screenshots and vibes alone <EMOJI>
+
+kate, <MENTION>.bsky.social would not be possible without you and thank you for making this site brighter <EMOJI>","['missed', 'anniversary', 'NUM', 'NUM', 'biggest', 'shout', 'out', 'MENTION', 'ca', 'year', 'collabing', 'project', 'based', 'screenshots', 'vibe', 'alone', 'EMOJI', 'kate', 'MENTION', 'bskysocial', 'would', 'not', 'possible', 'without', 'thank', 'making', 'site', 'brighter', 'EMOJI']",0,[],missed anniversary NUM NUM biggest shout out MENTION ca year collabing project based screenshots vibe alone EMOJI kate MENTION bskysocial would not possible without thank making site brighter EMOJI,0
+117,"My big chub sub Jonathan Ede @rosieposy58.bsky.social from Kent, sent me some sexy naked pics showing his full chub body with his little cock and his big fat ass. Message on:
+Telegram: rosieposy65  
+Kik: posyrosie2024  
+WhatsApp: +447860519063  
+Snapchat: jonmede
+#exposed #fat #chub #gay #bi #naked",1,"my big chub sub jonathan ede <MENTION>.bsky.social from kent, sent me some sexy naked pics showing his full chub body with his little cock and his big fat ass. message on:
+telegram: rosieposy65  
+kik: posyrosie2024  
+whatsapp: <PHONE_NUMBER>  
+snapchat: jonmede
+#exposed #fat #chub #gay #bi #naked","['big', 'chub', 'sub', 'jonathan', 'ede', 'MENTION', 'bskysocial', 'kent', 'sent', 'sexy', 'naked', 'pic', 'showing', 'full', 'chub', 'body', 'little', 'cock', 'big', 'fat', 'as', 'message', 'telegram', 'rosieposy65', 'kik', 'posyrosie2024', 'whatsapp', 'PHONENUMBER', 'snapchat', 'jonmede', 'exposed', 'fat', 'chub', 'gay', 'bi', 'naked']",0,"['#exposed', '#fat', '#chub', '#gay', '#bi', '#naked']",big chub sub jonathan ede MENTION bskysocial kent sent sexy naked pic showing full chub body little cock big fat as message telegram rosieposy65 kik posyrosie2024 whatsapp PHONENUMBER snapchat jonmede exposed fat chub gay bi naked,1
+118,"Happy 12th birthday, fabtic
+
+Founded #OTD 2013 in honour of my grandmother’s birthday
+
+Proud of all I’ve achieved amidst the losses of covid, trauma of direct work, anxiety caused by services paying invoices late, and gaslighting by those in command and control structures when challenged
+
+#Unbossed",0,"happy 12th birthday, fabtic
+
+founded #otd <NUM> in honour of my grandmother’s birthday
+
+proud of all i have achieved amidst the losses of covid, trauma of direct work, anxiety caused by services paying invoices late, and gaslighting by those in command and control structures when challenged
+
+#unbossed","['happy', '12th', 'birthday', 'fabtic', 'founded', 'otd', 'NUM', 'honour', 'grandmother', '’', 'birthday', 'proud', 'achieved', 'amidst', 'loss', 'covid', 'trauma', 'direct', 'work', 'anxiety', 'caused', 'service', 'paying', 'invoice', 'late', 'gaslighting', 'command', 'control', 'structure', 'challenged', 'unbossed']",0,"['#otd', '#unbossed']",happy 12th birthday fabtic founded otd NUM honour grandmother ’ birthday proud achieved amidst loss covid trauma direct work anxiety caused service paying invoice late gaslighting command control structure challenged unbossed,0
+119,"Guess who just landed and brought the heat with her? 🔥
+#CascaAkashova is in town and trust me… she’s even more unforgettable up close 😘
+
+Let’s make some magic:
+📍 #Boston : June 5
+📍 #NYC | #NewYorkCity : June 6–7
+
+Ready to play?
+📲 Message me on WhatsApp: 917-651-3547 💌",1,"guess who just landed and brought the heat with her? <EMOJI>
+#cascaakashova is in town and trust me… she is even more unforgettable up close <EMOJI>
+
+let us make some magic:
+<EMOJI> #boston : june <NUM>
+<EMOJI> #nyc | #newyorkcity : june <NUM>–<NUM>
+
+ready to play?
+<EMOJI> message me on whatsapp:<PHONE_NUMBER> <EMOJI>","['guess', 'landed', 'brought', 'heat', 'EMOJI', 'cascaakashova', 'town', 'trust', 'me…', 'even', 'unforgettable', 'close', 'EMOJI', 'let', 'u', 'make', 'magic', 'EMOJI', 'boston', 'june', 'NUM', 'EMOJI', 'nyc', 'newyorkcity', 'june', 'NUM', '–', 'NUM', 'ready', 'play', 'EMOJI', 'message', 'whatsapp', 'PHONENUMBER', 'EMOJI']",0,"['#cascaakashova', '#boston', '#nyc', '#newyorkcity']",guess landed brought heat EMOJI cascaakashova town trust me… even unforgettable close EMOJI let u make magic EMOJI boston june NUM EMOJI nyc newyorkcity june NUM – NUM ready play EMOJI message whatsapp PHONENUMBER EMOJI,1
+120,(and the rest),0,(and the rest),['rest'],0,[],rest,0
+121,"Mahmoud has a verified and donation protected GoFundMe campaign that he shares with his brother: 
+www.gofundme.com/f/they-saved...
+Please donate if you can! 
+
+And this is some of what he has to say:",0,"mahmoud has a verified and donation protected gofundme campaign that he shares with his brother: 
+<URL>
+please donate if you can! 
+
+and this is some of what he has to say:","['mahmoud', 'verified', 'donation', 'protected', 'gofundme', 'campaign', 'share', 'brother', 'URL', 'please', 'donate', 'say']",1,[],mahmoud verified donation protected gofundme campaign share brother URL please donate say,0
+122,"Got targeted by a scammer on WhatsApp.
+
+Started with flirty small talk. Shifted to “investment talk.”
+Dodged my video call. Asked for selfies.
+Told me: “Just listen to me and start with small capital.”
+Yeah… no.
+
+If it smells like bait, it probably is. 🎣",0,"got targeted by a scammer on whatsapp.
+
+started with flirty small talk. shifted to “investment talk.”
+dodged my video call. asked for selfies.
+told me: “just listen to me and start with small capital.”
+yeah… no.
+
+if it smells like bait, it probably is. <EMOJI>","['got', 'targeted', 'scammer', 'whatsapp', 'started', 'flirty', 'small', 'talk', 'shifted', '“', 'investment', 'talk', '”', 'dodged', 'video', 'call', 'asked', 'selfies', 'told', '“', 'listen', 'start', 'small', 'capital', '”', 'yeah…', 'no', 'smell', 'like', 'bait', 'probably', 'EMOJI']",0,[],got targeted scammer whatsapp started flirty small talk shifted “ investment talk ” dodged video call asked selfies told “ listen start small capital ” yeah… no smell like bait probably EMOJI,0
+123,"Sorry I have to comment here, it’s says I can’t send you a message here which I don’t know why, text me on WhatsApp 
+
+‪+1 (219) 246‑3056‬",1,"sorry i have to comment here, it is says i cannot send you a message here which i do not know why, text me on whatsapp 
+
+‪+<NUM> (<NUM>) <NUM>‑<NUM>‬","['sorry', 'comment', 'say', 'not', 'send', 'message', 'not', 'know', 'text', 'whatsapp', '\u202a', 'NUM', 'NUM', 'NUM', '‑', 'NUM', '\u202c']",0,[],sorry comment say not send message not know text whatsapp ‪ NUM NUM NUM ‑ NUM ‬,1
+124,"🎇Happy #WriteOnWednesday! To support you in getting your WRITE on, we got the weekly #BlackWritersGroup meeting today in a lil less than 5 hours AND we got #writingprompts! ✊🏾Right on? 👊🏿Write on!✍🏿✍🏿✍🏽✍🏾✍🏾 
+
+#blackskywriters
+#writersofblacksky
+#blackskyauthors
+#bwg
+
+(Message me for more information!)",0,"<EMOJI>happy #writeonwednesday! to support you in getting your write on, we got the weekly #blackwritersgroup meeting today in a lil less than <NUM> hours and we got #writingprompts! <EMOJI>right on? <EMOJI>write on!<EMOJI> 
+
+#blackskywriters
+#writersofblacksky
+#blackskyauthors
+#bwg
+
+(message me for more information!)","['EMOJI', 'happy', 'writeonwednesday', 'support', 'getting', 'write', 'got', 'weekly', 'blackwritersgroup', 'meeting', 'today', 'lil', 'less', 'NUM', 'hour', 'got', 'writingprompts', 'EMOJI', 'right', 'EMOJI', 'write', 'EMOJI', 'blackskywriters', 'writersofblacksky', 'blackskyauthors', 'bwg', 'message', 'information']",1,"['#writeonwednesday', '#blackwritersgroup', '#writingprompts', '#blackskywriters', '#writersofblacksky', '#blackskyauthors', '#bwg']",EMOJI happy writeonwednesday support getting write got weekly blackwritersgroup meeting today lil less NUM hour got writingprompts EMOJI right EMOJI write EMOJI blackskywriters writersofblacksky blackskyauthors bwg message information,0
+125,it's always good to be on the same wavelength @beav.bsky.social,0,it is always good to be on the same wavelength <MENTION>.bsky.social,"['always', 'good', 'wavelength', 'MENTION', 'bskysocial']",0,[],always good wavelength MENTION bskysocial,0
+126,People should really have second thoughts before adding me to the group chat,0,people should really have second thoughts before adding me to the group chat,"['people', 'really', 'second', 'thought', 'adding', 'group', 'chat']",0,[],people really second thought adding group chat,0
+127,"if i ever miss anything, please message me on whatsapp, i hope you’re holding up okay",1,"if i ever miss anything, please message me on whatsapp, i hope you are holding up okay","['ever', 'miss', 'anything', 'please', 'message', 'whatsapp', 'hope', 'holding', 'okay']",0,[],ever miss anything please message whatsapp hope holding okay,1
+128,"So whatsapp sent me a message about how secure they are right after I set an autoresponse message telling people to find me on Signal. It _could_ be a coincidence, but at this point.... The optics are not great, Meta.
+
+#meta #infosec #signal […] https://mycabinetofcuriosities.com/notes/1749328242/",0,"so whatsapp sent me a message about how secure they are right after i set an autoresponse message telling people to find me on signal. it _could_ be a coincidence, but at this point.... the optics are not great, meta.
+
+#meta #infosec #signal […] <URL>","['whatsapp', 'sent', 'message', 'secure', 'right', 'set', 'autoresponse', 'message', 'telling', 'people', 'find', 'signal', 'could', 'coincidence', 'point', 'optic', 'not', 'great', 'meta', 'meta', 'infosec', 'signal', '…', 'URL']",0,"['#meta', '#infosec', '#signal']",whatsapp sent message secure right set autoresponse message telling people find signal could coincidence point optic not great meta meta infosec signal … URL,0
+129,"Available for Remote Domination today (sexy texting, including lots of photos).
+Message me via WhatsApp, if possible on 07710 825586 (the country code is +44, if you're not in the UK).
+Mistress Gia x
+Sheffieldmistress.com",1,"available for remote domination today (sexy texting, including lots of photos).
+message me via whatsapp, if possible on <NUM> <NUM> (the country code is +<NUM>, if you are not in the uk).
+mistress gia x
+sheffieldmistress.com","['available', 'remote', 'domination', 'today', 'sexy', 'texting', 'including', 'lot', 'photo', 'message', 'via', 'whatsapp', 'possible', 'NUM', 'NUM', 'country', 'code', 'NUM', 'not', 'uk', 'mistress', 'gia', 'x', 'sheffieldmistresscom']",0,[],available remote domination today sexy texting including lot photo message via whatsapp possible NUM NUM country code NUM not uk mistress gia x sheffieldmistresscom,1
+130,Wow finally my prince has come,0,wow finally my prince has come,"['wow', 'finally', 'prince', 'come']",0,[],wow finally prince come,0
+131,"No, but a friend had sent me a WhatsApp message to say my photo had been on ITV this evening! I managed to take a pic on ITV+1 channel later!",0,"no, but a friend had sent me a whatsapp message to say my photo had been on itv this evening! i managed to take a pic on itv+<NUM> channel later!","['no', 'friend', 'sent', 'whatsapp', 'message', 'say', 'photo', 'itv', 'evening', 'managed', 'take', 'pic', 'itv', 'NUM', 'channel', 'later']",1,[],no friend sent whatsapp message say photo itv evening managed take pic itv NUM channel later,0
+132,This was next #gay #porn #horny #male2male #contentcreation #onlyfans #buttplug message me on whatsapp 0449824970 or on here for the full video or anymore videos or exclusive pics xx,1,this was next #gay #porn #horny #male2male #contentcreation #onlyfans #buttplug message me on whatsapp<PHONE_NUMBER> or on here for the full video or anymore videos or exclusive pics xx,"['next', 'gay', 'porn', 'horny', 'male2male', 'contentcreation', 'onlyfans', 'buttplug', 'message', 'whatsapp', 'PHONENUMBER', 'full', 'video', 'anymore', 'video', 'exclusive', 'pic', 'xx']",0,"['#gay', '#porn', '#horny', '#male2male', '#contentcreation', '#onlyfans', '#buttplug']",next gay porn horny male2male contentcreation onlyfans buttplug message whatsapp PHONENUMBER full video anymore video exclusive pic xx,1
+133,Right you lovely lot I need some voice notes for this weeks coming radio show @InDemandDecades 10pm till 1am. They don't cost you anything. It's my #WhatsApp number 07931662209. Talk about anything #Lizards #Trump #music #politics just leave me a message to be used on Sunday,1,right you lovely lot i need some voice notes for this weeks coming radio show <MENTION> 10pm till 1am. they do not cost you anything. it is my #whatsapp number<PHONE_NUMBER><NUM>. talk about anything #lizards #trump #music #politics just leave me a message to be used on sunday,"['right', 'lovely', 'lot', 'need', 'voice', 'note', 'week', 'coming', 'radio', 'show', 'MENTION', '10pm', 'till', '1am', 'not', 'cost', 'anything', 'whatsapp', 'number', 'PHONENUMBER', 'NUM', 'talk', 'anything', 'lizard', 'trump', 'music', 'politics', 'leave', 'message', 'used', 'sunday']",0,"['#whatsapp', '#lizards', '#trump', '#music', '#politics']",right lovely lot need voice note week coming radio show MENTION 10pm till 1am not cost anything whatsapp number PHONENUMBER NUM talk anything lizard trump music politics leave message used sunday,1
+134,Preparing my pal for my embarrassing conduct at Sparks next week,0,preparing my pal for my embarrassing conduct at sparks next week,"['preparing', 'pal', 'embarrassing', 'conduct', 'spark', 'next', 'week']",0,[],preparing pal embarrassing conduct spark next week,0
+135,"I was buying beyblades from a dude in a whatsapp group and he hasn't responded to me in 3 days, his last message was a video of him packing them up and at this point I just believe he died on the way to the post office.",0,"i was buying beyblades from a dude in a whatsapp group and he has not responded to me in <NUM> days, his last message was a video of him packing them up and at this point i just believe he died on the way to the post office.","['buying', 'beyblades', 'dude', 'whatsapp', 'group', 'not', 'responded', 'NUM', 'day', 'last', 'message', 'video', 'packing', 'point', 'believe', 'died', 'way', 'post', 'office']",0,[],buying beyblades dude whatsapp group not responded NUM day last message video packing point believe died way post office,0
+136,"Oh, my conservative, trump supporting, asshole uncle sent me a Facebook link on WhatsApp!  
+
+*Deletes message*",0,"oh, my conservative, trump supporting, asshole uncle sent me a facebook link on whatsapp!  
+
+*deletes message*","['oh', 'conservative', 'trump', 'supporting', 'asshole', 'uncle', 'sent', 'facebook', 'link', 'whatsapp', 'deletes', 'message']",1,[],oh conservative trump supporting asshole uncle sent facebook link whatsapp deletes message,0
+137,"🔥 I’m available now for private 1-2-1 live shows
+You watch. I play. We both finish 😈
+💋 Real-time. Raw. Just you and me.
+📲 Message me on WhatsApp +66 61 292 3670 to book your session — serious only.",1,"<EMOJI> i am available now for private <NUM>-<NUM>-<NUM> live shows
+you watch. i play. we both finish <EMOJI>
+<EMOJI> real-time. raw. just you and me.
+<EMOJI> message me on whatsapp +<NUM> <NUM> <NUM> <NUM> to book your session — serious only.","['EMOJI', 'available', 'private', 'NUM', 'NUM', 'NUM', 'live', 'show', 'watch', 'play', 'finish', 'EMOJI', 'EMOJI', 'realtime', 'raw', 'EMOJI', 'message', 'whatsapp', 'NUM', 'NUM', 'NUM', 'NUM', 'book', 'session', '—', 'serious']",0,[],EMOJI available private NUM NUM NUM live show watch play finish EMOJI EMOJI realtime raw EMOJI message whatsapp NUM NUM NUM NUM book session — serious,1
+138,"Wow, that's such a great anecdote Jonathan, I hope you're saving these for when you charge £1000s on the After Dinner Circuit, Tony Blair had better watch out!/s
+
+#JonathanReynolds #UKUSTradeDeal #UKPOL #UKPOLITICS #Quislings #Appeasement #Fascism",0,"wow, that is such a great anecdote jonathan, i hope you are saving these for when you charge £1000s on the after dinner circuit, tony blair had better watch out!/s
+
+#jonathanreynolds #ukustradedeal #ukpol #ukpolitics #quislings #appeasement #fascism","['wow', 'great', 'anecdote', 'jonathan', 'hope', 'saving', 'charge', '£1000s', 'dinner', 'circuit', 'tony', 'blair', 'better', 'watch', 'jonathanreynolds', 'ukustradedeal', 'ukpol', 'ukpolitics', 'quisling', 'appeasement', 'fascism']",1,"['#jonathanreynolds', '#ukustradedeal', '#ukpol', '#ukpolitics', '#quislings', '#appeasement', '#fascism']",wow great anecdote jonathan hope saving charge £1000s dinner circuit tony blair better watch jonathanreynolds ukustradedeal ukpol ukpolitics quisling appeasement fascism,0
+139,"Pride Animated YCH Emoji!!!
+
+Show your pride through a custom pride animated emoji! YCH comes in 512x by 512x for easy upload to Discord, Telegram, and WhatsApp apps. You can add two flags max, one on each paw.
+Please message me personally if you are interested! 
+#furry #ych #furrych #pride #fursona",0,"pride animated ych emoji!!!
+
+show your pride through a custom pride animated emoji! ych comes in 512x by 512x for easy upload to discord, telegram, and whatsapp apps. you can add two flags max, one on each paw.
+please message me personally if you are interested! 
+#furry #ych #furrych #pride #fursona","['pride', 'animated', 'ych', 'emoji', 'show', 'pride', 'custom', 'pride', 'animated', 'emoji', 'ych', 'come', '512x', '512x', 'easy', 'upload', 'discord', 'telegram', 'whatsapp', 'apps', 'add', 'two', 'flag', 'max', 'one', 'paw', 'please', 'message', 'personally', 'interested', 'furry', 'ych', 'furrych', 'pride', 'fursona']",1,"['#furry', '#ych', '#furrych', '#pride', '#fursona']",pride animated ych emoji show pride custom pride animated emoji ych come 512x 512x easy upload discord telegram whatsapp apps add two flag max one paw please message personally interested furry ych furrych pride fursona,0
+140,"Switching phone plans, but in the meantime, if anyone needs me asap message or call me on WhatsApp.",0,"switching phone plans, but in the meantime, if anyone needs me as soon as possible message or call me on whatsapp.","['switching', 'phone', 'plan', 'meantime', 'anyone', 'need', 'soon', 'possible', 'message', 'call', 'whatsapp']",0,[],switching phone plan meantime anyone need soon possible message call whatsapp,0
+141,🥳🥳,0,<EMOJI>,['EMOJI'],0,[],EMOJI,0
+142,"Day 159:
+I went about my Friday as I normally do. The recruiter emailed me and sent me a message on WhatsApp of two refs she could call; I immediately gave her the contact details of my former colleagues from my previous employment.",0,"day <NUM>:
+i went about my friday as i normally do. the recruiter emailed me and sent me a message on whatsapp of two refs she could call; i immediately gave her the contact details of my former colleagues from my previous employment.","['day', 'NUM', 'went', 'friday', 'normally', 'recruiter', 'emailed', 'sent', 'message', 'whatsapp', 'two', 'ref', 'could', 'call', 'immediately', 'gave', 'contact', 'detail', 'former', 'colleague', 'previous', 'employment']",0,[],day NUM went friday normally recruiter emailed sent message whatsapp two ref could call immediately gave contact detail former colleague previous employment,0
+143,That's what best friends are for,0,that is what best friends are for,"['best', 'friend']",0,[],best friend,0
+144,"My mother has just told me she has received a message purporting to be from me on WhatsApp, claiming I am using a temporary number. It is definitely not me. Please warn your relatives, especially the less online and/or older ones that this is a scam.",0,"my mother has just told me she has received a message purporting to be from me on whatsapp, claiming i am using a temporary number. it is definitely not me. please warn your relatives, especially the less online and/or older ones that this is a scam.","['mother', 'told', 'received', 'message', 'purporting', 'whatsapp', 'claiming', 'using', 'temporary', 'number', 'definitely', 'not', 'please', 'warn', 'relative', 'especially', 'less', 'online', 'andor', 'older', 'one', 'scam']",0,[],mother told received message purporting whatsapp claiming using temporary number definitely not please warn relative especially less online andor older one scam,0
+145,WhatsApp just sent me a message to say WhatsApp had sent me a message but I wouldn't be able to read it on WhatsApp.,0,whatsapp just sent me a message to say whatsapp had sent me a message but i would not be able to read it on whatsapp.,"['whatsapp', 'sent', 'message', 'say', 'whatsapp', 'sent', 'message', 'would', 'not', 'able', 'read', 'whatsapp']",0,[],whatsapp sent message say whatsapp sent message would not able read whatsapp,0
+146,The opportunity I’ve been waiting for has just arrived!,0,the opportunity i have been waiting for has just arrived!,"['opportunity', 'waiting', 'arrived']",1,[],opportunity waiting arrived,0
+147,She just found out she's the other woman,0,she just found out she is the other woman,"['found', 'woman']",0,[],found woman,0
+148,"Just saw someone on here remarking about the funniest thing they’ve ever read, and I was wondering what that would be for me. I mean it was *probably* a sarcastic WhatsApp message I received, or something, but in terms of publically available documents, perhaps this? clickhole.com/amazing-chec...",0,"just saw someone on here remarking about the funniest thing they have ever read, and i was wondering what that would be for me. i mean it was *probably* a sarcastic whatsapp message i received, or something, but in terms of publically available documents, perhaps this? clickhole.com/amazing-chec...","['saw', 'someone', 'remarking', 'funniest', 'thing', 'ever', 'read', 'wondering', 'would', 'mean', 'probably', 'sarcastic', 'whatsapp', 'message', 'received', 'something', 'term', 'publically', 'available', 'document', 'perhaps', 'clickholecomamazingchec']",0,[],saw someone remarking funniest thing ever read wondering would mean probably sarcastic whatsapp message received something term publically available document perhaps clickholecomamazingchec,0
+149,I was talking about the ones that message me on all the other platforms and ask me to connect on WhatsApp. It’s even happening on LinkedIn,0,i was talking about the ones that message me on all the other platforms and ask me to connect on whatsapp. it is even happening on linkedin,"['talking', 'one', 'message', 'platform', 'ask', 'connect', 'whatsapp', 'even', 'happening', 'linkedin']",0,[],talking one message platform ask connect whatsapp even happening linkedin,0
+150,"My brother is currently in Brasil. Apparently, WhatsApp is the main communication platform there. He asked me to install it on my phone so we could message without him relying on international texting.
+
+I hate this program. It's Telegram with ads. No, you can't access my contacts!",0,"my brother is currently in brasil. apparently, whatsapp is the main communication platform there. he asked me to install it on my phone so we could message without him relying on international texting.
+
+i hate this program. it is telegram with ads. no, you cannot access my contacts!","['brother', 'currently', 'brasil', 'apparently', 'whatsapp', 'main', 'communication', 'platform', 'asked', 'install', 'phone', 'could', 'message', 'without', 'relying', 'international', 'texting', 'hate', 'program', 'telegram', 'ad', 'no', 'not', 'access', 'contact']",1,[],brother currently brasil apparently whatsapp main communication platform asked install phone could message without relying international texting hate program telegram ad no not access contact,0
+151," Message me on WhatsApp +66 61 292 3670
+Or telegram @juliejue69
+
+🔥 I’m available today for hot custom vids & 1-2-1 FaceTime calls
+
+Tell me your fantasy — I’ll film it, moan it, and make it unforgettable 💋
+
+Or let’s go live together… real-time, raw, just you and me. 😈",1," message me on whatsapp +<NUM> <NUM> <NUM> <NUM>
+or telegram <MENTION>
+
+<EMOJI> i am available today for hot custom vids & <NUM>-<NUM>-<NUM> facetime calls
+
+tell me your fantasy — i will film it, moan it, and make it unforgettable <EMOJI>
+
+or let us go live together… real-time, raw, just you and me. <EMOJI>","['message', 'whatsapp', 'NUM', 'NUM', 'NUM', 'NUM', 'telegram', 'MENTION', 'EMOJI', 'available', 'today', 'hot', 'custom', 'vids', 'NUM', 'NUM', 'NUM', 'facetime', 'call', 'tell', 'fantasy', '—', 'film', 'moan', 'make', 'unforgettable', 'EMOJI', 'let', 'u', 'go', 'live', 'together…', 'realtime', 'raw', 'EMOJI']",0,[],message whatsapp NUM NUM NUM NUM telegram MENTION EMOJI available today hot custom vids NUM NUM NUM facetime call tell fantasy — film moan make unforgettable EMOJI let u go live together… realtime raw EMOJI,1
+152,"This is my profile pic on WhatsApp, it works pretty well for getting people to actually message me there!",0,"this is my profile pic on whatsapp, it works pretty well for getting people to actually message me there!","['profile', 'pic', 'whatsapp', 'work', 'pretty', 'well', 'getting', 'people', 'actually', 'message']",1,[],profile pic whatsapp work pretty well getting people actually message,0
+153,"thank you! i'm one of the last persons who doesn't have whatsapp, i don't really talk much with anyone for various reasons. but you can message me on here if you want 👍",0,"thank you! i am one of the last persons who does not have whatsapp, i do not really talk much with anyone for various reasons. but you can message me on here if you want <EMOJI>","['thank', 'one', 'last', 'person', 'not', 'whatsapp', 'not', 'really', 'talk', 'much', 'anyone', 'various', 'reason', 'message', 'want', 'EMOJI']",1,[],thank one last person not whatsapp not really talk much anyone various reason message want EMOJI,0
+154,"I had heard legends of this “mansplaining tech reviewer”guy, and had seen the screenshots. I needed to find the thread itself to see if in context it was as hubris-laden as it seemed. 
+Reader, it was.",0,"i had heard legends of this “mansplaining tech reviewer”guy, and had seen the screenshots. i needed to find the thread itself to see if in context it was as hubris-laden as it seemed. 
+reader, it was.","['heard', 'legend', '“', 'mansplaining', 'tech', 'reviewer', '”', 'guy', 'seen', 'screenshots', 'needed', 'find', 'thread', 'see', 'context', 'hubrisladen', 'seemed', 'reader']",0,[],heard legend “ mansplaining tech reviewer ” guy seen screenshots needed find thread see context hubrisladen seemed reader,0
+155,"It is a simple message, but a) it is hard to conceptualise (even if you’re on your 3rd AI Coming like me) and b) it is hard to connect with the great results you get pretty much every time. 
+
+I put your version of the simple message, beautifully put, on our WhatsApp and the fam gets it now, cheers!",0,"it is a simple message, but a) it is hard to conceptualise (even if you are on your 3rd ai coming like me) and b) it is hard to connect with the great results you get pretty much every time. 
+
+i put your version of the simple message, beautifully put, on our whatsapp and the fam gets it now, cheers!","['simple', 'message', 'hard', 'conceptualise', 'even', '3rd', 'ai', 'coming', 'like', 'b', 'hard', 'connect', 'great', 'result', 'get', 'pretty', 'much', 'every', 'time', 'put', 'version', 'simple', 'message', 'beautifully', 'put', 'whatsapp', 'fam', 'get', 'cheer']",1,[],simple message hard conceptualise even 3rd ai coming like b hard connect great result get pretty much every time put version simple message beautifully put whatsapp fam get cheer,0
+156,"Classic Ensittitication moves forward apace.  I'm on Signal, but lets be honest, a IM platform is only as good as the size of its user base. A sum total of 3 people message me on Signal. I have well over 100 active contacts on WhatsApp.",0,"classic ensittitication moves forward apace.  i am on signal, but let us be honest, a i am platform is only as good as the size of its user base. a sum total of <NUM> people message me on signal. i have well over <NUM> active contacts on whatsapp.","['classic', 'ensittitication', 'move', 'forward', 'apace', 'signal', 'let', 'u', 'honest', 'platform', 'good', 'size', 'user', 'base', 'sum', 'total', 'NUM', 'people', 'message', 'signal', 'well', 'NUM', 'active', 'contact', 'whatsapp']",0,[],classic ensittitication move forward apace signal let u honest platform good size user base sum total NUM people message signal well NUM active contact whatsapp,0
+157,"Meanwhile, my bro sent me Mike Huckabee's message to Trump with the comment, ""This is so unhinged."" I appreciate him!",0,"meanwhile, my bro sent me mike huckabee's message to trump with the comment, ""this is so unhinged."" i appreciate him!","['meanwhile', 'bro', 'sent', 'mike', 'huckabee', 'message', 'trump', 'comment', 'unhinged', 'appreciate']",1,[],meanwhile bro sent mike huckabee message trump comment unhinged appreciate,0
+158,Out of curiosity I searched my WhatsApp for the word Afghanistan (where I have probably 200ish people from Gaza who message me on it) and the only time it ever came up was 4 years ago in a conversation with my friend Mohammed from Syria,0,out of curiosity i searched my whatsapp for the word afghanistan (where i have probably 200ish people from gaza who message me on it) and the only time it ever came up was <NUM> years ago in a conversation with my friend mohammed from syria,"['curiosity', 'searched', 'whatsapp', 'word', 'afghanistan', 'probably', '200ish', 'people', 'gaza', 'message', 'time', 'ever', 'came', 'NUM', 'year', 'ago', 'conversation', 'friend', 'mohammed', 'syria']",0,[],curiosity searched whatsapp word afghanistan probably 200ish people gaza message time ever came NUM year ago conversation friend mohammed syria,0
+159,"genuinely and truly.
+
+-M",0,"genuinely and truly.
+
+-m","['genuinely', 'truly']",0,[],genuinely truly,0
+160,"@xojameson.bsky. ‎Chat with me on WhatsApp! It lets us message privately with friends and family on iPhone, Android and more. whatsapp.com/dl/",1,"<MENTION>.bsky. ‎chat with me on whatsapp! it let us us message privately with friends and family on iphone, android and more. whatsapp.com/dl/","['MENTION', 'bsky', '\u200echat', 'whatsapp', 'let', 'u', 'u', 'message', 'privately', 'friend', 'family', 'iphone', 'android', 'whatsappcomdl']",1,[],MENTION bsky ‎chat whatsapp let u u message privately friend family iphone android whatsappcomdl,1
+161,"Overheard last night from two users in #Cuba
+
+user1: ""the people are currently in need not only to save data plan but also to have more security in their conversations""
+
+user2: ""also stability. Right now the whole of Guantanamo is in blackout with problems in […] 
+
+[Original post on chaos.social]",0,"overheard last night from two users in #cuba
+
+user1: ""the people are currently in need not only to save data plan but also to have more security in their conversations""
+
+user2: ""also stability. right now the whole of guantanamo is in blackout with problems in […] 
+
+[original post on chaos.social]","['overheard', 'last', 'night', 'two', 'user', 'cuba', 'user1', 'people', 'currently', 'need', 'not', 'save', 'data', 'plan', 'also', 'security', 'conversation', 'user2', 'also', 'stability', 'right', 'whole', 'guantanamo', 'blackout', 'problem', '…', 'original', 'post', 'chaossocial']",0,['#cuba'],overheard last night two user cuba user1 people currently need not save data plan also security conversation user2 also stability right whole guantanamo blackout problem … original post chaossocial,0
+162,"I need a image background remover.
+Per image $20
+
+Send me a direct message if you're interested in working on WhatsApp for more details 
+
+👇👇👇👇👇👇👇👇
+
++1 (840) 214-7302",1,"i need a image background remover.
+per image $<NUM>
+
+send me a direct message if you are interested in working on whatsapp for more details 
+
+<EMOJI>
+
+<PHONE_NUMBER>","['need', 'image', 'background', 'remover', 'per', 'image', 'NUM', 'send', 'direct', 'message', 'interested', 'working', 'whatsapp', 'detail', 'EMOJI', 'PHONENUMBER']",0,[],need image background remover per image NUM send direct message interested working whatsapp detail EMOJI PHONENUMBER,1
+163,"[Parental estrangement, bullshit mothers.]
+
+Context: I was going to go no contact with my abusive mother when I moved back to the UK but complications meant I didn't.
+
+She's in the UK now losing her shit because I ""don't want to see her"" because, *checks notes* I […] 
+
+[Original post on toot.wales]",0,"[parental estrangement, bullshit mothers.]
+
+context: i was going to go no contact with my abusive mother when i moved back to the uk but complications meant i did not.
+
+she is in the uk now losing her shit because i ""do not want to see her"" because, *checks notes* i […] 
+
+[original post on toot.wales]","['parental', 'estrangement', 'bullshit', 'mother', 'context', 'going', 'go', 'no', 'contact', 'abusive', 'mother', 'moved', 'back', 'uk', 'complication', 'meant', 'not', 'uk', 'losing', 'shit', 'not', 'want', 'see', 'check', 'note', '…', 'original', 'post', 'tootwales']",0,[],parental estrangement bullshit mother context going go no contact abusive mother moved back uk complication meant not uk losing shit not want see check note … original post tootwales,0
+164,good grief these scams are getting esoteric,0,good grief these scams are getting esoteric,"['good', 'grief', 'scam', 'getting', 'esoteric']",0,[],good grief scam getting esoteric,0
+165,"Kudos to the person working the British Gas WhatsApp today, who, having confirmed with me that the brand-new-in-box Hive Hub that was in our house is dead as a doornail, went on in the same message to suggest that maybe I'd like to buy a replacement for £60.",0,"kudos to the person working the british gas whatsapp today, who, having confirmed with me that the brand-new-in-box hive hub that was in our house is dead as a doornail, went on in the same message to suggest that maybe i would like to buy a replacement for £<NUM>.","['kudos', 'person', 'working', 'british', 'gas', 'whatsapp', 'today', 'confirmed', 'brandnewinbox', 'hive', 'hub', 'house', 'dead', 'doornail', 'went', 'message', 'suggest', 'maybe', 'would', 'like', 'buy', 'replacement', '£', 'NUM']",0,[],kudos person working british gas whatsapp today confirmed brandnewinbox hive hub house dead doornail went message suggest maybe would like buy replacement £ NUM,0
+166,"Samaa’s account was closed by Bluesky and here is what she said to me about her account closure on WhatsApp:
+
+www.gofundme.com/f/brgdd-help...",0,"samaa’s account was closed by bluesky and here is what she said to me about her account closure on whatsapp:
+
+<URL>","['samaa', '’', 'account', 'closed', 'bluesky', 'said', 'account', 'closure', 'whatsapp', 'URL']",0,[],samaa ’ account closed bluesky said account closure whatsapp URL,0
+167,"Am I the first Asian woman you’ve added on WhatsApp?
+
+This message came from a cyberscammer I met here who had the account deleted quickly. There's AI designed to do what I did. I kept a person talking to me so those 2 hours the person couldn't actually scam a vulnerable mark. 
+I had time that day.",0,"am i the first asian woman you have added on whatsapp?
+
+this message came from a cyberscammer i met here who had the account deleted quickly. there is ai designed to do what i did. i kept a person talking to me so those <NUM> hours the person could not actually scam a vulnerable mark. 
+i had time that day.","['first', 'asian', 'woman', 'added', 'whatsapp', 'message', 'came', 'cyberscammer', 'met', 'account', 'deleted', 'quickly', 'ai', 'designed', 'kept', 'person', 'talking', 'NUM', 'hour', 'person', 'could', 'not', 'actually', 'scam', 'vulnerable', 'mark', 'time', 'day']",0,[],first asian woman added whatsapp message came cyberscammer met account deleted quickly ai designed kept person talking NUM hour person could not actually scam vulnerable mark time day,0
+168,"“On the opening or closing credits of any film is actually the last place I want Bay to be right now”
+
+- Actual @katwatchesfilms.bsky.social message to me on WhatsApp just now.
+
+I’m so sorry about her, Andrew.",0,"“on the opening or closing credits of any film is actually the last place i want bay to be right now”
+
+- actual <MENTION>.bsky.social message to me on whatsapp just now.
+
+i am so sorry about her, andrew.","['“', 'opening', 'closing', 'credit', 'film', 'actually', 'last', 'place', 'want', 'bay', 'right', '”', 'actual', 'MENTION', 'bskysocial', 'message', 'whatsapp', 'sorry', 'andrew']",0,[],“ opening closing credit film actually last place want bay right ” actual MENTION bskysocial message whatsapp sorry andrew,0
+169,"WhatsApp have taken to messaging me on their own app, it is irritating. 
+
+Just now I got a random message not in a conversation, and I’m such a needy person I got excited and thought “Oooh who’s that?!”.
+
+And it’s ruddy WhatsApp telling me it can be used on an iPad…. 🙄",0,"whatsapp have taken to messaging me on their own app, it is irritating. 
+
+just now i got a random message not in a conversation, and i am such a needy person i got excited and thought “oooh who is that?!”.
+
+and it is ruddy whatsapp telling me it can be used on an ipad…. <EMOJI>","['whatsapp', 'taken', 'messaging', 'app', 'irritating', 'got', 'random', 'message', 'not', 'conversation', 'needy', 'person', 'got', 'excited', 'thought', '“', 'oooh', '”', 'ruddy', 'whatsapp', 'telling', 'used', 'ipad…', 'EMOJI']",1,[],whatsapp taken messaging app irritating got random message not conversation needy person got excited thought “ oooh ” ruddy whatsapp telling used ipad… EMOJI,0
+170,"So i hired a guy to do a bit of maintance work on my house and a few weeks ago i got a text from him at like 12am saying goodnight and asking if i happened to have a spare gas oven. I checked my whatsapp this morning and why tf did he send me this message?!!?
+
+?!?!?!",0,"so i hired a guy to do a bit of maintance work on my house and a few weeks ago i got a text from him at like 12am saying goodnight and asking if i happened to have a spare gas oven. i checked my whatsapp this morning and why tf did he send me this message?!!?
+
+?!?!?!","['hired', 'guy', 'bit', 'maintance', 'work', 'house', 'week', 'ago', 'got', 'text', 'like', '12am', 'saying', 'goodnight', 'asking', 'happened', 'spare', 'gas', 'oven', 'checked', 'whatsapp', 'morning', 'tf', 'send', 'message']",1,[],hired guy bit maintance work house week ago got text like 12am saying goodnight asking happened spare gas oven checked whatsapp morning tf send message,0
+171,"@flandersbtour.bsky.social Hi Gen, do you have an email address that I could please contact you on or maybe WhatsApp? Pvt message me 😊",1,"<MENTION>.bsky.social hi gen, do you have an email address that i could please contact you on or maybe whatsapp? pvt message me <EMOJI>","['MENTION', 'bskysocial', 'hi', 'gen', 'email', 'address', 'could', 'please', 'contact', 'maybe', 'whatsapp', 'pvt', 'message', 'EMOJI']",0,[],MENTION bskysocial hi gen email address could please contact maybe whatsapp pvt message EMOJI,1
+172,Just realised how much I hate being accessible to every team member on WhatsApp because any and all creeps now know my number and could now message me for any reason outside of work.,0,just realised how much i hate being accessible to every team member on whatsapp because any and all creeps now know my number and could now message me for any reason outside of work.,"['realised', 'much', 'hate', 'accessible', 'every', 'team', 'member', 'whatsapp', 'creep', 'know', 'number', 'could', 'message', 'reason', 'outside', 'work']",0,[],realised much hate accessible every team member whatsapp creep know number could message reason outside work,0
+173,"I never forgot this. February 2017. A Tory posted a racist tweet about Diane Abbott. She was found in tears in the ladies loos. Labour Right mocked her for it, discussed letting the press know in their WhatsApp. 
+x.com/michaeljswal...",0,"i never forgot this. february <NUM>. a tory posted a racist tweet about diane abbott. she was found in tears in the ladies loos. labour right mocked her for it, discussed letting the press know in their whatsapp. 
+x.com/michaeljswal...","['never', 'forgot', 'february', 'NUM', 'tory', 'posted', 'racist', 'tweet', 'diane', 'abbott', 'found', 'tear', 'lady', 'loo', 'labour', 'right', 'mocked', 'discussed', 'letting', 'press', 'know', 'whatsapp', 'xcommichaeljswal']",0,[],never forgot february NUM tory posted racist tweet diane abbott found tear lady loo labour right mocked discussed letting press know whatsapp xcommichaeljswal,0
+174,"The reason I don't get shit done most days.
+In my brain, I've finished 3 rooms, but the list is too long and exhausting, so I'm just sitting and doing nothing 🙃
+
+I still have my last therapists words in my mind (the one not specialized in ADHD):
+""You need to learn to prioritize""",0,"the reason i do not get shit done most days.
+in my brain, i have finished <NUM> rooms, but the list is too long and exhausting, so i am just sitting and doing nothing <EMOJI>
+
+i still have my last therapists words in my mind (the one not specialized in adhd):
+""you need to learn to prioritize""","['reason', 'not', 'get', 'shit', 'done', 'day', 'brain', 'finished', 'NUM', 'room', 'list', 'long', 'exhausting', 'sitting', 'nothing', 'EMOJI', 'still', 'last', 'therapist', 'word', 'mind', 'one', 'not', 'specialized', 'adhd', 'need', 'learn', 'prioritize']",0,[],reason not get shit done day brain finished NUM room list long exhausting sitting nothing EMOJI still last therapist word mind one not specialized adhd need learn prioritize,0
+175,Aye I got a couple of dms on twitter and a WhatsApp message from pals telling me they got weird dms. I wasn't properly paying attention and only fully realised what was happening when they tried to get money off me,0,aye i got a couple of dms on twitter and a whatsapp message from pals telling me they got weird dms. i was not properly paying attention and only fully realised what was happening when they tried to get money off me,"['aye', 'got', 'couple', 'dm', 'twitter', 'whatsapp', 'message', 'pal', 'telling', 'got', 'weird', 'dm', 'not', 'properly', 'paying', 'attention', 'fully', 'realised', 'happening', 'tried', 'get', 'money']",0,[],aye got couple dm twitter whatsapp message pal telling got weird dm not properly paying attention fully realised happening tried get money,0
+176,had a dream i sent a message to my girlfriend to eat her vegetables and then she replied with :/ and then blocked me on whatsapp,0,had a dream i sent a message to my girlfriend to eat her vegetables and then she replied with :/ and then blocked me on whatsapp,"['dream', 'sent', 'message', 'girlfriend', 'eat', 'vegetable', 'replied', 'blocked', 'whatsapp']",0,[],dream sent message girlfriend eat vegetable replied blocked whatsapp,0
+177,"My sources weren’t outed. The screenshots of the chats only show others speaking. Whatsapp formats chats so if my source had posted a message it would appear in the screenshots on the right hand side, colored green, no name. The chats from “Me” are (iirc) Ronen Levy who changed it to hide his name.",0,"my sources were not outed. the screenshots of the chats only show others speaking. whatsapp formats chats so if my source had posted a message it would appear in the screenshots on the right hand side, colored green, no name. the chats from “me” are (iirc) ronen levy who changed it to hide his name.","['source', 'not', 'outed', 'screenshots', 'chat', 'show', 'others', 'speaking', 'whatsapp', 'format', 'chat', 'source', 'posted', 'message', 'would', 'appear', 'screenshots', 'right', 'hand', 'side', 'colored', 'green', 'no', 'name', 'chat', '“', '”', 'iirc', 'ronen', 'levy', 'changed', 'hide', 'name']",0,[],source not outed screenshots chat show others speaking whatsapp format chat source posted message would appear screenshots right hand side colored green no name chat “ ” iirc ronen levy changed hide name,0
+178,"I’m in touch with Omar on WhatsApp and he sent me a message saying he’s feeling very scared about having to evacuate with his family because he doesn’t know where to evacuate to. Please give if you can and share:
+
+gofund.me/501bc64e",0,"i am in touch with omar on whatsapp and he sent me a message saying he is feeling very scared about having to evacuate with his family because he does not know where to evacuate to. please give if you can and share:
+
+gofund.me/501bc64e","['touch', 'omar', 'whatsapp', 'sent', 'message', 'saying', 'feeling', 'scared', 'evacuate', 'family', 'not', 'know', 'evacuate', 'please', 'give', 'share', 'gofundme501bc64e']",0,[],touch omar whatsapp sent message saying feeling scared evacuate family not know evacuate please give share gofundme501bc64e,0
+179,"Meta sent me a message on their app telling me that ""WhatsApp is now on iPad"".
+
+While, it is news to me that this wasn't already available, you'd think they would know enough about me to know that I don't have an iPad.",0,"meta sent me a message on their app telling me that ""whatsapp is now on ipad"".
+
+while, it is news to me that this was not already available, you would think they would know enough about me to know that i do not have an ipad.","['meta', 'sent', 'message', 'app', 'telling', 'whatsapp', 'ipad', 'news', 'not', 'already', 'available', 'would', 'think', 'would', 'know', 'enough', 'know', 'not', 'ipad']",0,[],meta sent message app telling whatsapp ipad news not already available would think would know enough know not ipad,0
+180,I’ve suddenly started getting at least one text a day from ‘recruiters’ asking me to message them on WhatsApp. I don’t know why my phone numbers is suddenly on a hit list but I’d like it to stop.,0,i have suddenly started getting at least one text a day from ‘recruiters’ asking me to message them on whatsapp. i do not know why my phone numbers is suddenly on a hit list but i would like it to stop.,"['suddenly', 'started', 'getting', 'least', 'one', 'text', 'day', '‘', 'recruiter', '’', 'asking', 'message', 'whatsapp', 'not', 'know', 'phone', 'number', 'suddenly', 'hit', 'list', 'would', 'like', 'stop']",0,[],suddenly started getting least one text day ‘ recruiter ’ asking message whatsapp not know phone number suddenly hit list would like stop,0
+181,"Packing a few extra bits for my art group today because one of the members took the key to the supply cupboard home last week, and it's not that I don't trust him, he's pretty on the ball at 80, but he did just forward me a WhatsApp message of a child, I presume he is related to, doing Sports Day",0,"packing a few extra bits for my art group today because one of the members took the key to the supply cupboard home last week, and it is not that i do not trust him, he is pretty on the ball at <NUM>, but he did just forward me a whatsapp message of a child, i presume he is related to, doing sports day","['packing', 'extra', 'bit', 'art', 'group', 'today', 'one', 'member', 'took', 'key', 'supply', 'cupboard', 'home', 'last', 'week', 'not', 'not', 'trust', 'pretty', 'ball', 'NUM', 'forward', 'whatsapp', 'message', 'child', 'presume', 'related', 'sport', 'day']",0,[],packing extra bit art group today one member took key supply cupboard home last week not not trust pretty ball NUM forward whatsapp message child presume related sport day,0
+182,"Hey, sorry for this out of the blue message. I’m working on a WhatsApp group of people to coordinate posting & sharing for Fidaa to help her campaign & she gave me your name as someone who might be interested. It just involves posting her campaign & sharing it with the group so we can all share etc.",0,"hey, sorry for this out of the blue message. i am working on a whatsapp group of people to coordinate posting & sharing for fidaa to help her campaign & she gave me your name as someone who might be interested. it just involves posting her campaign & sharing it with the group so we can all share etc.","['hey', 'sorry', 'blue', 'message', 'working', 'whatsapp', 'group', 'people', 'coordinate', 'posting', 'sharing', 'fidaa', 'help', 'campaign', 'gave', 'name', 'someone', 'might', 'interested', 'involves', 'posting', 'campaign', 'sharing', 'group', 'share', 'etc']",0,[],hey sorry blue message working whatsapp group people coordinate posting sharing fidaa help campaign gave name someone might interested involves posting campaign sharing group share etc,0
+183,"International Plaza studio apartment for rent.
+Above Tanjong Pagar MRT, nearby shopping, school and dining.
+A mixed-use high-rise property in Singapore city. Offices, shop, apartments, swimming pool, badminton court and car park.
+Message me now on WhatsApp +65 9643 7676
+ #TanjongPagar",1,"international plaza studio apartment for rent.
+above tanjong pagar mrt, nearby shopping, school and dining.
+a mixed-use high-rise property in singapore city. offices, shop, apartments, swimming pool, badminton court and car park.
+message me now on whatsapp +<NUM> <NUM> <NUM>
+ #tanjongpagar","['international', 'plaza', 'studio', 'apartment', 'rent', 'tanjong', 'pagar', 'mrt', 'nearby', 'shopping', 'school', 'dining', 'mixeduse', 'highrise', 'property', 'singapore', 'city', 'office', 'shop', 'apartment', 'swimming', 'pool', 'badminton', 'court', 'car', 'park', 'message', 'whatsapp', 'NUM', 'NUM', 'NUM', 'tanjongpagar']",0,['#tanjongpagar'],international plaza studio apartment rent tanjong pagar mrt nearby shopping school dining mixeduse highrise property singapore city office shop apartment swimming pool badminton court car park message whatsapp NUM NUM NUM tanjongpagar,1
+184,"Still not been blacklisted... I responded to another spam ""please add me on what is app"" call by grabbing the initiative.",0,"still not been blacklisted... i responded to another spam ""please add me on what is app"" call by grabbing the initiative.","['still', 'not', 'blacklisted', 'responded', 'another', 'spam', 'please', 'add', 'app', 'call', 'grabbing', 'initiative']",0,[],still not blacklisted responded another spam please add app call grabbing initiative,0
+185,"Amber House, a rare freehold new launch at East Coast!
+Walk to 2 TEL MRT stations connecting CBD, Orchard & Chinatown. 10min stroll to East Coast Park. Functional layouts.
+Message me now on WhatsApp +65 9643 7676.
+Collin Khwang R007323J, PropNex Realty PL L3008022J
+#Freehold #Amber",1,"amber house, a rare freehold new launch at east coast!
+walk to <NUM> tel mrt stations connecting cbd, orchard & chinatown. 10min stroll to east coast park. functional layouts.
+message me now on whatsapp +<NUM> <NUM> <NUM>.
+collin khwang r007323j, propnex realty pl l3008022j
+#freehold #amber","['amber', 'house', 'rare', 'freehold', 'new', 'launch', 'east', 'coast', 'walk', 'NUM', 'tel', 'mrt', 'station', 'connecting', 'cbd', 'orchard', 'chinatown', '10min', 'stroll', 'east', 'coast', 'park', 'functional', 'layout', 'message', 'whatsapp', 'NUM', 'NUM', 'NUM', 'collin', 'khwang', 'r007323j', 'propnex', 'realty', 'pl', 'l3008022j', 'freehold', 'amber']",1,"['#freehold', '#amber']",amber house rare freehold new launch east coast walk NUM tel mrt station connecting cbd orchard chinatown 10min stroll east coast park functional layout message whatsapp NUM NUM NUM collin khwang r007323j propnex realty pl l3008022j freehold amber,1
+186,"I also had to leave a global autistic WhatsApp group because there were autistic MAGAs praising the big beautiful bill in regards to cutting off Medicaid. I got into it with someone else (another person tried to back me up on this). My last message was ""I no longer feel safe in this group""",0,"i also had to leave a global autistic whatsapp group because there were autistic magas praising the big beautiful bill in regards to cutting off medicaid. i got into it with someone else (another person tried to back me up on this). my last message was ""i no longer feel safe in this group""","['also', 'leave', 'global', 'autistic', 'whatsapp', 'group', 'autistic', 'magas', 'praising', 'big', 'beautiful', 'bill', 'regard', 'cutting', 'medicaid', 'got', 'someone', 'else', 'another', 'person', 'tried', 'back', 'last', 'message', 'no', 'longer', 'feel', 'safe', 'group']",0,[],also leave global autistic whatsapp group autistic magas praising big beautiful bill regard cutting medicaid got someone else another person tried back last message no longer feel safe group,0
+187,"Anyone wanna make some videos? 26 year old bottom near Liverpool, if you wanna collab send me a message on WhatsApp +447398171411 #gay #porn #collab #gayporn #pornhub #bottom #video #record #gaycollab",1,"anyone want to make some videos? <NUM> year old bottom near liverpool, if you want to collab send me a message on whatsapp <PHONE_NUMBER> #gay #porn #collab #gayporn #pornhub #bottom #video #record #gaycollab","['anyone', 'want', 'make', 'video', 'NUM', 'year', 'old', 'bottom', 'near', 'liverpool', 'want', 'collab', 'send', 'message', 'whatsapp', 'PHONENUMBER', 'gay', 'porn', 'collab', 'gayporn', 'pornhub', 'bottom', 'video', 'record', 'gaycollab']",0,"['#gay', '#porn', '#collab', '#gayporn', '#pornhub', '#bottom', '#video', '#record', '#gaycollab']",anyone want make video NUM year old bottom near liverpool want collab send message whatsapp PHONENUMBER gay porn collab gayporn pornhub bottom video record gaycollab,1
+188,Yeah. Message Me on WhatsApp ?  And let’s start some Serious Sex chat ? And stop Teasing each other here on Bluesky ????? 👍,1,yeah. message me on whatsapp ?  and let us start some serious sex chat ? and stop teasing each other here on bluesky ????? <EMOJI>,"['yeah', 'message', 'whatsapp', 'let', 'u', 'start', 'serious', 'sex', 'chat', 'stop', 'teasing', 'bluesky', 'EMOJI']",0,[],yeah message whatsapp let u start serious sex chat stop teasing bluesky EMOJI,1
+189,"Faut que je vous montre comment Bluesky persecute les Palestinians ici. Le compte a 1h, Ahmed a posté une fois, follow des gens et envoyé UN (1) message en DM. Ces DM sont maintenant désactivés.",0,"faut que je vous montre comment bluesky persecute les palestinians ici. le compte a 1h, ahmed a posté une fois, follow des gens et envoyé un (<NUM>) message en dm. ces dm sont maintenant désactivés.","['faut', 'que', 'je', 'vous', 'montre', 'comment', 'bluesky', 'persecute', 'le', 'palestinian', 'ici', 'le', 'compte', '1h', 'ahmed', 'posté', 'une', 'fois', 'follow', 'de', 'gen', 'et', 'envoyé', 'un', 'NUM', 'message', 'en', 'dm', 'ce', 'dm', 'sont', 'maintenant', 'désactivés']",0,[],faut que je vous montre comment bluesky persecute le palestinian ici le compte 1h ahmed posté une fois follow de gen et envoyé un NUM message en dm ce dm sont maintenant désactivés,0
+190,"Fancy another round of #teenietexts? 
+Well, I don’t leave you any choice. 
+Sorry. 
+Or not. 
+Because I love these texts! 😇",0,"fancy another round of #teenietexts? 
+well, i do not leave you any choice. 
+sorry. 
+or not. 
+because i love these texts! <EMOJI>","['fancy', 'another', 'round', 'teenietexts', 'well', 'not', 'leave', 'choice', 'sorry', 'not', 'love', 'text', 'EMOJI']",1,['#teenietexts'],fancy another round teenietexts well not leave choice sorry not love text EMOJI,0
+191,"Karen Harvey's lovely #SHSconf2025 keynote on 'trifling' letters in the c18th has me wanting to compose all my WhatsApp messages as little letters, with all their care for language, for a while. Since I basically only message my wife she in particular will be suffering.",0,"karen harvey's lovely #shsconf2025 keynote on 'trifling' letters in the c18th has me wanting to compose all my whatsapp messages as little letters, with all their care for language, for a while. since i basically only message my wife she in particular will be suffering.","['karen', 'harvey', 'lovely', 'shsconf2025', 'keynote', 'trifling', 'letter', 'c18th', 'wanting', 'compose', 'whatsapp', 'message', 'little', 'letter', 'care', 'language', 'since', 'basically', 'message', 'wife', 'particular', 'suffering']",0,['#shsconf2025'],karen harvey lovely shsconf2025 keynote trifling letter c18th wanting compose whatsapp message little letter care language since basically message wife particular suffering,0
+192,"Samaa sent me a photo on WhatsApp from a family event they had back in 2022 and showed me what kind of food was available for them in Gaza. It looks just like the kind of spreads we have at our family gatherings here in England. Now they can’t even afford flour without donations:
+
+gofund.me/650b0cab",0,"samaa sent me a photo on whatsapp from a family event they had back in <NUM> and showed me what kind of food was available for them in gaza. it looks just like the kind of spreads we have at our family gatherings here in england. now they cannot even afford flour without donations:
+
+gofund.me/650b0cab","['samaa', 'sent', 'photo', 'whatsapp', 'family', 'event', 'back', 'NUM', 'showed', 'kind', 'food', 'available', 'gaza', 'look', 'like', 'kind', 'spread', 'family', 'gathering', 'england', 'not', 'even', 'afford', 'flour', 'without', 'donation', 'gofundme650b0cab']",0,[],samaa sent photo whatsapp family event back NUM showed kind food available gaza look like kind spread family gathering england not even afford flour without donation gofundme650b0cab,0
+193,"J'appelle FREE au 3244 pour une assistance technique sur ma box. 
+Le répondeur me dit de passer par Whatsapp.
+Sur mon espace abonné, on me dit d'ouvrir Whatsappweb pour l'assistance. 
+Ce que je fais.
+Message 👇🏼 
+
+(allez en enfer)
+(#BayrouDemission)",0,"j'appelle free au <NUM> pour une assistance technique sur ma box. 
+le répondeur me dit de passer par whatsapp.
+sur mon espace abonné, on me dit d'ouvrir whatsappweb pour l'assistance. 
+ce que je fais.
+message <EMOJI> 
+
+(allez en enfer)
+(#bayroudemission)","['jappelle', 'free', 'au', 'NUM', 'pour', 'une', 'assistance', 'technique', 'sur', 'box', 'le', 'répondeur', 'dit', 'de', 'passer', 'par', 'whatsapp', 'sur', 'mon', 'espace', 'abonné', 'dit', 'douvrir', 'whatsappweb', 'pour', 'lassistance', 'ce', 'que', 'je', 'fais', 'message', 'EMOJI', 'allez', 'en', 'enfer', 'bayroudemission']",0,['#bayroudemission'],jappelle free au NUM pour une assistance technique sur box le répondeur dit de passer par whatsapp sur mon espace abonné dit douvrir whatsappweb pour lassistance ce que je fais message EMOJI allez en enfer bayroudemission,0
+194,"Phone is currently out of commission for the time being, so please message me through any web browse accessible apps we're connected on.  ie: IG Whatsapp, FBM, Twitter, BKSY.
+Until then, send me all the recommended upgrades!",0,"phone is currently out of commission for the time being, so please message me through any web browse accessible apps we are connected on.  ie: ig whatsapp, fbm, twitter, bksy.
+until then, send me all the recommended upgrades!","['phone', 'currently', 'commission', 'time', 'please', 'message', 'web', 'browse', 'accessible', 'apps', 'connected', 'ie', 'ig', 'whatsapp', 'fbm', 'twitter', 'bksy', 'send', 'recommended', 'upgrade']",1,[],phone currently commission time please message web browse accessible apps connected ie ig whatsapp fbm twitter bksy send recommended upgrade,0
+195,congrats! You win! WhatsApp message me at number on my site for your freebie! ❤️❤️❤️❤️❤️🫶🏻,1,congrats! you win! whatsapp message me at number on my site for your freebie! <EMOJI>,"['congrats', 'win', 'whatsapp', 'message', 'number', 'site', 'freebie', 'EMOJI']",1,[],congrats win whatsapp message number site freebie EMOJI,1
+196,"Me: ranting about pain on my WhatsApp status for some goddamn reason
+🐝: sends a really sweet message hoping I’m alright
+
+🥰🥰🥰",0,"me: ranting about pain on my whatsapp status for some goddamn reason
+<EMOJI>: sends a really sweet message hoping i am alright
+
+<EMOJI>","['ranting', 'pain', 'whatsapp', 'status', 'goddamn', 'reason', 'EMOJI', 'sends', 'really', 'sweet', 'message', 'hoping', 'alright', 'EMOJI']",0,[],ranting pain whatsapp status goddamn reason EMOJI sends really sweet message hoping alright EMOJI,0
+197,"What's even the point of phone calls. It seems that all I get are spam calls. Fortunately, I rarely even have them make my phone ring as they're automatically blocked. One did get through today and it was a recorded message saying ""I am calling about job. Please add me on WhatsApp"". Just why?",0,"what is even the point of phone calls. it seems that all i get are spam calls. fortunately, i rarely even have them make my phone ring as they are automatically blocked. one did get through today and it was a recorded message saying ""i am calling about job. please add me on whatsapp"". just why?","['even', 'point', 'phone', 'call', 'seems', 'get', 'spam', 'call', 'fortunately', 'rarely', 'even', 'make', 'phone', 'ring', 'automatically', 'blocked', 'one', 'get', 'today', 'recorded', 'message', 'saying', 'calling', 'job', 'please', 'add', 'whatsapp']",0,[],even point phone call seems get spam call fortunately rarely even make phone ring automatically blocked one get today recorded message saying calling job please add whatsapp,0
+198,"The house in Paraguay that I helped with the foundation through Habitat for Humanity? It's almost done! I'll have photos soon. 
+Our liaison just sent all the #volunteers from that week this message on WhatsApp. 
+Man, my allergies...",0,"the house in paraguay that i helped with the foundation through habitat for humanity? it is almost done! i will have photos soon. 
+our liaison just sent all the #volunteers from that week this message on whatsapp. 
+man, my allergies...","['house', 'paraguay', 'helped', 'foundation', 'habitat', 'humanity', 'almost', 'done', 'photo', 'soon', 'liaison', 'sent', 'volunteer', 'week', 'message', 'whatsapp', 'man', 'allergy']",1,['#volunteers'],house paraguay helped foundation habitat humanity almost done photo soon liaison sent volunteer week message whatsapp man allergy,0
+199,i was like aww all my reactions are either on my now deleted twt or in dms with a german friend but for some reason we talked about it in english. his one message reads “does izzy smack stede’s ass in the trailer already?”,0,i was like aww all my reactions are either on my now deleted twt or in dms with a german friend but for some reason we talked about it in english. his one message reads “does izzy smack stede’s ass in the trailer already?”,"['like', 'aww', 'reaction', 'either', 'deleted', 'twt', 'dm', 'german', 'friend', 'reason', 'talked', 'english', 'one', 'message', 'read', '“', 'izzy', 'smack', 'stede', '’', 'as', 'trailer', 'already', '”']",0,[],like aww reaction either deleted twt dm german friend reason talked english one message read “ izzy smack stede ’ as trailer already ”,0
+200,For some reason I'm enjoying whatsapp on my laptop more than on my phone. Makes me happy whenever I see this message.,0,for some reason i am enjoying whatsapp on my laptop more than on my phone. makes me happy whenever i see this message.,"['reason', 'enjoying', 'whatsapp', 'laptop', 'phone', 'make', 'happy', 'whenever', 'see', 'message']",0,[],reason enjoying whatsapp laptop phone make happy whenever see message,0
+201,"If you receive a call or message on WhatsApp from this number, it's not me!  Do not answer.  Do not respond.",0,"if you receive a call or message on whatsapp from this number, it is not me!  do not answer.  do not respond.","['receive', 'call', 'message', 'whatsapp', 'number', 'not', 'not', 'answer', 'not', 'respond']",1,[],receive call message whatsapp number not not answer not respond,0
+202,Someone needs to take this emoji away from my mum stat 😭,0,someone needs to take this emoji away from my mum stat <EMOJI>,"['someone', 'need', 'take', 'emoji', 'away', 'mum', 'stat', 'EMOJI']",0,[],someone need take emoji away mum stat EMOJI,0
+203,"1/2 Maha and her whole family are running for their lives without food or water, and they're likely being corralled into a killing field, please god will someone help her, my friend is going to die if someone doesn't help, Idk what else to do except fucking beg you",0,"<NUM>/<NUM> maha and her whole family are running for their lives without food or water, and they are likely being corralled into a killing field, please god will someone help her, my friend is going to die if someone does not help, i do not know what else to do except fucking beg you","['NUM', 'NUM', 'maha', 'whole', 'family', 'running', 'life', 'without', 'food', 'water', 'likely', 'corralled', 'killing', 'field', 'please', 'god', 'someone', 'help', 'friend', 'going', 'die', 'someone', 'not', 'help', 'not', 'know', 'else', 'except', 'fucking', 'beg']",0,[],NUM NUM maha whole family running life without food water likely corralled killing field please god someone help friend going die someone not help not know else except fucking beg,0
+204,hopefully this is received well,0,hopefully this is received well,"['hopefully', 'received', 'well']",0,[],hopefully received well,0
+205,"I sent my lovely Mum a photo of how well my pomegranate is doing in my garden. 
+
+You've got to love her wholesomeness in not getting my joke. So sweet.",0,"i sent my lovely mum a photo of how well my pomegranate is doing in my garden. 
+
+you have got to love her wholesomeness in not getting my joke. so sweet.","['sent', 'lovely', 'mum', 'photo', 'well', 'pomegranate', 'garden', 'got', 'love', 'wholesomeness', 'not', 'getting', 'joke', 'sweet']",0,[],sent lovely mum photo well pomegranate garden got love wholesomeness not getting joke sweet,0
+206,"“As I document … my eyes in the camera lens, my heart breaking behind it. In front of me, everyone is on the ground, faces covered in dust, lost gazes, little bodies trembling & then falling,”Nassar wrote in a WhatsApp message to the WP. ""It’s like I’m recording the end of the world, frame by frame""",0,"“as i document … my eyes in the camera lens, my heart breaking behind it. in front of me, everyone is on the ground, faces covered in dust, lost gazes, little bodies trembling & then falling,”nassar wrote in a whatsapp message to the wp. ""it is like i am recording the end of the world, frame by frame""","['“', 'document', '…', 'eye', 'camera', 'lens', 'heart', 'breaking', 'behind', 'front', 'everyone', 'ground', 'face', 'covered', 'dust', 'lost', 'gaze', 'little', 'body', 'trembling', 'falling', '”', 'nassar', 'wrote', 'whatsapp', 'message', 'wp', 'like', 'recording', 'end', 'world', 'frame', 'frame']",0,[],“ document … eye camera lens heart breaking behind front everyone ground face covered dust lost gaze little body trembling falling ” nassar wrote whatsapp message wp like recording end world frame frame,0
+207,"I was venting to a friend and i accidentaly sent that message to a person i was helping in whatsapp on the job, i fucking froze, cold sweat all over my body 
+
+A person from my job contacted me asking if i was ok, i feel so pathetic and weak, they fucking read it, they know all about it, fuck",0,"i was venting to a friend and i accidentaly sent that message to a person i was helping in whatsapp on the job, i fucking froze, cold sweat all over my body 
+
+a person from my job contacted me asking if i was ok, i feel so pathetic and weak, they fucking read it, they know all about it, fuck","['venting', 'friend', 'accidentaly', 'sent', 'message', 'person', 'helping', 'whatsapp', 'job', 'fucking', 'froze', 'cold', 'sweat', 'body', 'person', 'job', 'contacted', 'asking', 'ok', 'feel', 'pathetic', 'weak', 'fucking', 'read', 'know', 'fuck']",0,[],venting friend accidentaly sent message person helping whatsapp job fucking froze cold sweat body person job contacted asking ok feel pathetic weak fucking read know fuck,0
+208,"Please donate my pal, I'm dying of hunger
+Famunifi@gmail.com 
+If anyone donate, please send me a message on WhatsApp 
+970598058909+",1,"please donate my pal, i am dying of hunger
+famunifi<MENTION>.com 
+if anyone donate, please send me a message on whatsapp 
+<PHONE_NUMBER>+","['please', 'donate', 'pal', 'dying', 'hunger', 'famunifi', 'MENTION', 'com', 'anyone', 'donate', 'please', 'send', 'message', 'whatsapp', 'PHONENUMBER']",0,[],please donate pal dying hunger famunifi MENTION com anyone donate please send message whatsapp PHONENUMBER,1
+209," Message me on WhatsApp +66 61 292 3670
+Or telegram @juliejue69
+
+🔥 I’m available today for hot custom vids & 1-2-1 FaceTime calls
+
+Tell me your fantasy — I’ll film it, moan it, and make it unforgettable 💋
+
+Or let’s go live together… real-time, raw, just you and me. 😈",1," message me on whatsapp +<NUM> <NUM> <NUM> <NUM>
+or telegram <MENTION>
+
+<EMOJI> i am available today for hot custom vids & <NUM>-<NUM>-<NUM> facetime calls
+
+tell me your fantasy — i will film it, moan it, and make it unforgettable <EMOJI>
+
+or let us go live together… real-time, raw, just you and me. <EMOJI>","['message', 'whatsapp', 'NUM', 'NUM', 'NUM', 'NUM', 'telegram', 'MENTION', 'EMOJI', 'available', 'today', 'hot', 'custom', 'vids', 'NUM', 'NUM', 'NUM', 'facetime', 'call', 'tell', 'fantasy', '—', 'film', 'moan', 'make', 'unforgettable', 'EMOJI', 'let', 'u', 'go', 'live', 'together…', 'realtime', 'raw', 'EMOJI']",0,[],message whatsapp NUM NUM NUM NUM telegram MENTION EMOJI available today hot custom vids NUM NUM NUM facetime call tell fantasy — film moan make unforgettable EMOJI let u go live together… realtime raw EMOJI,1
+210,"thank you! i'm one of the last persons who doesn't have whatsapp, i don't really talk much with anyone for various reasons. but you can message me on here if you want 👍",0,"thank you! i am one of the last persons who does not have whatsapp, i do not really talk much with anyone for various reasons. but you can message me on here if you want <EMOJI>","['thank', 'one', 'last', 'person', 'not', 'whatsapp', 'not', 'really', 'talk', 'much', 'anyone', 'various', 'reason', 'message', 'want', 'EMOJI']",1,[],thank one last person not whatsapp not really talk much anyone various reason message want EMOJI,0
