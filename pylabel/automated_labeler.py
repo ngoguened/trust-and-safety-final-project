@@ -6,6 +6,7 @@ from atproto import Client
 import os
 import pickle
 from preprocessing.preprocess_text import preprocess_text_single
+from .label import post_from_url
 
 T_AND_S_LABEL = "t-and-s"
 
@@ -45,9 +46,8 @@ class AutomatedLabeler:
         if not self.model or not self.vectorizer:
             return []
 
-        post_id = _extract_post_id(url)
-        post_record = self.client.get_post(post_id)
-        post_content = post_record['record']['text']
+        post_record = post_from_url(self.client, url)
+        post_content = post_record.value.text
         
         cleaned_text = preprocess_text_single(post_content)
         

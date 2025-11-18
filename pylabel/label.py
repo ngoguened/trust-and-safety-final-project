@@ -25,11 +25,18 @@ def did_from_handle(handle: str):
         str: The DID associated with the input handle.
     """
     # via: https://github.com/skygaze-ai/atproto-101
-    return requests.get(
+    response = requests.get(
         "https://bsky.social/xrpc/com.atproto.identity.resolveHandle",
         params={"handle": handle},
         timeout=10,
-    ).json()["did"]
+    )
+    if response.status_code == 200:
+        return response.json()["did"]
+    else:
+        print(f"Error resolving handle {handle}:")
+        print(f"Status code: {response.status_code}")
+        print(f"Response: {response.text}")
+        raise Exception(f"Could not resolve DID for handle {handle}")
 
 
 def post_from_url(client: Client, url: str):
