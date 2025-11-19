@@ -1,22 +1,13 @@
 """Implementation of automated moderator"""
 
-import re
 from typing import List
 from atproto import Client
 import os
 import pickle
 from preprocessing.preprocess_text import preprocess_text_single
-from .label import post_from_url
+from .label import post_from_url, label_post
 
 T_AND_S_LABEL = "t-and-s"
-
-def _extract_post_id(url: str) -> str:
-    """Extracts the unique post identifier from a Bluesky URL."""
-    # This is a placeholder regex—adjust based on your actual URLs.
-    match = re.search(r'/post/([\w\d]+)$', url)
-    if match:
-        return match.group(1)
-    raise ValueError(f"Could not parse post ID from URL: {url}")
 
 class AutomatedLabeler:
     """Automated labeler implementation using a trained Logistic Regression model."""
@@ -25,6 +16,7 @@ class AutomatedLabeler:
         self.client = client
         self.model = None
         self.vectorizer = None
+        self.labeler_client = client.with_proxy("atproto_labeler", client.me.did)
         
         model_path = os.path.join(input_dir, 'trained_logistic_regression_model.pkl')
         vectorizer_path = os.path.join(input_dir, 'trained_count_vectorizer.pkl')
@@ -56,6 +48,7 @@ class AutomatedLabeler:
         prediction = self.model.predict(X_new)[0]
         
         if prediction == 1:
+            label_post(self.client, self.labeler_client, url, [T_AND_S_LABEL])
             return [T_AND_S_LABEL]
         
         return []

@@ -9,7 +9,7 @@ import pandas as pd
 from atproto import Client
 from dotenv import load_dotenv
 
-from pylabel import AutomatedLabeler, label_post, did_from_handle
+from pylabel import AutomatedLabeler, label_post
 
 load_dotenv(override=True)
 USERNAME = os.getenv("USERNAME")
@@ -21,6 +21,8 @@ def main():
     """
     client = Client()
     client.login(USERNAME, PW)
+    labeler_client = client.with_proxy("atproto_labeler", client.me.did)
+
 
     parser = argparse.ArgumentParser()
     parser.add_argument("models_dir", type=str)
@@ -31,7 +33,7 @@ def main():
     labeler = AutomatedLabeler(client, args.models_dir)
 
     if args.input_urls:
-        urls = pd.read_csv(args.input_urls)
+        urls = pd.read_csv(args.input__urls)
         num_correct, total = 0, urls.shape[0]
         for _index, row in urls.iterrows():
             url, expected_labels = row["URL"], json.loads(row["Labels"])
