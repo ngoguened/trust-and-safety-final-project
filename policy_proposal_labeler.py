@@ -49,8 +49,8 @@ class AutomatedLabeler:
         except:
             return None
 
-    def is_user_spammer(self, actor: str, limit: int = 10) -> bool:
-        """User suspicious if oldest of recent 10 posts < 24 hours"""
+    def is_user_spammer(self, actor: str, limit: int) -> bool:
+        """User suspicious if oldest of recent limit posts < 24 hours"""
         params = {"actor": actor, "limit": limit}
         feed = self.client.app.bsky.feed.get_author_feed(params)
 
@@ -67,24 +67,35 @@ class AutomatedLabeler:
 
         return (now - oldest < timedelta(days=1))
 
-    def moderate_post(self, url: str) -> List[str]:
-        labels = []
+    def moderate_post(self, url: str) -> int:
+        """
+            0 = safe
+            1 = risk
+        """
 
-        # 1. Behavior signal
-        actor = self.extract_actor(url)
-        if actor and self.is_user_spammer(actor):
-            labels.append(BEHAVIOR_LABEL)
-
-        # 2. Text classification
-        post_record = post_from_url(self.client, url)
-        text = post_record.value.text
+        #1. model predict
+        post = post_from_url(self.client, url)
+        text = post.value.text
 
         cleaned = preprocess_text_single(text)
         X = self.vectorizer.transform([cleaned])
-        pred = self.model.predict(X)[0]
+        pred = self.model.predict(X)[0]     # 1=risky, 0=safe
 
-        if pred == 1:
-            risk = True
+        #if the post is risky
+        if pred==1:
 
-        # 3. Return int label
-        return 0 if risk else 1
+            #2. count recent number of posts
+            #if user sent to many posts(>5) the last day, them mark as risky
+            actor = self.extract_actor(url)
+            is_spammer = False
+
+            limit=5
+
+            if actor:
+                is_spammer = self.is_user_spammer(actor,limit)
+
+            if is_spammer:
+                return 1
+        
+        return 0 #safe
+
