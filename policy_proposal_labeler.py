@@ -62,19 +62,21 @@ class AutomatedLabeler:
         if not post_dates:
             return False
 
-        oldest = min(post_dates)
-        now = datetime.now(timezone.utc)
-
-        return (now - oldest < timedelta(days=1))
+        newest = post_dates[0]     
+        oldest = post_dates[-1]    
+        return (newest - oldest) < timedelta(days=1)
 
     def moderate_post(self, url: str) -> int:
         """
             0 = safe
             1 = risk
         """
-
         #1. model predict
-        post = post_from_url(self.client, url)
+        try:
+            post = post_from_url(self.client, url)
+        except Exception as e:
+            return 0
+    
         text = post.value.text
 
         cleaned = preprocess_text_single(text)
@@ -89,7 +91,7 @@ class AutomatedLabeler:
             actor = self.extract_actor(url)
             is_spammer = False
 
-            limit=5
+            limit=3
 
             if actor:
                 is_spammer = self.is_user_spammer(actor,limit)
