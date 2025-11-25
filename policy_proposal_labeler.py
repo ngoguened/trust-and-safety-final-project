@@ -91,7 +91,7 @@ class AutomatedLabeler:
             actor = self.extract_actor(url)
             is_spammer = False
 
-            limit=3
+            limit=5
 
             if actor:
                 is_spammer = self.is_user_spammer(actor,limit)
