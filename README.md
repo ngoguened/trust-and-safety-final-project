@@ -1,11 +1,17 @@
 
 
 
-# Real-time Bluesky Feed Labeler
-The main script, `test_labeler.py`, runs in a continuous loop to provide live moderation:
-1.  **Fetches Feeds**: The script fetches the latest posts from your "Following" timeline.
-2.  **Analyzes Content**: Each new post is processed by a trained model to determine if it should be labeled.
-3.  **Applies Labels**: If a post is flagged, the service will attempt to apply a `t-and-s` label to it on Bluesky.
+# Automated Bluesky Scam Redirect Detector
+This project focuses on detecting scam posts on Bluesky that attempt to redirect users to external platforms.
+
+## Workflow
+Loads `data.csv`, which contains Bluesky post URLs and ground-truth labels (scam vs. non-scam) for test.  
+Logs into Bluesky with the user information in `.env`.  
+Uses `AutomatedLabeler` to predict whether a post is a scam redirect.  
+Compares predictions with expected labels.  
+Prints the number of correct predictions and the overall accuracy.  
+
+
 
 ## Setup Instructions
 
@@ -24,12 +30,10 @@ Ensure you have the necessary Python libraries installed by running
 ```shell
 pip install -r requirements.txt
 ```
-## How to Run the Service
-
-To start the live moderation service, run the following command from the root of the project directory:
+## How to Run the Test
 
 ```shell
-python test_labeler.py models
+python test.py
 ```
 
 Once running, the service will print its activity to the terminal.
